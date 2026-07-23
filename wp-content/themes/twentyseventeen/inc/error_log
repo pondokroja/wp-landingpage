@@ -1,0 +1,8 @@
+[08-Jul-2023 05:30:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/pondokro/public_html/wp-content/themes/twentyseventeen/inc/customizer.php:161
+Stack trace:
+#0 {main}
+  thrown in /home1/pondokro/public_html/wp-content/themes/twentyseventeen/inc/customizer.php on line 161
+[09-Jul-2023 18:56:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home1/pondokro/public_html/wp-content/themes/twentyseventeen/inc/template-functions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home1/pondokro/public_html/wp-content/themes/twentyseventeen/inc/template-functions.php on line 67
