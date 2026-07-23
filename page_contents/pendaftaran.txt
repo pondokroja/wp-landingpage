@@ -1,0 +1,37 @@
+﻿[et_pb_section fb_built="1" fullwidth="on" _builder_version="4.16" background_color="#F86E01" custom_padding="0px||0px" bottom_divider_style="ramp2" bottom_divider_color="#F7F9FB" bottom_divider_height="148px" bottom_divider_flip="horizontal" global_colors_info="{}"][et_pb_fullwidth_header title="Pendaftaran" _builder_version="4.16" title_font="||||||||" title_font_size="40px" background_color="#F86E01" custom_padding="32px||29px|||" global_colors_info="{}"][/et_pb_fullwidth_header][/et_pb_section][et_pb_section fb_built="1" _builder_version="4.16" background_color="#F7F9FB" global_colors_info="{}"][et_pb_row _builder_version="4.16" custom_padding="0px|||||" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.16" global_colors_info="{}"][et_pb_text _builder_version="4.16" text_font="||||||||" text_text_color="#ffffff" header_font="|||on|||||" header_text_align="center" header_letter_spacing="4px" header_3_font="|300||on|||||" header_3_letter_spacing="4px" text_orientation="center" text_text_align="center" global_colors_info="{}"]<h3></h3>
+<h3></h3>
+<h3></h3>
+<h3></h3>
+<h3></h3>
+<h3></h3>
+<h3></h3>
+<h3></h3>
+<h3>Pendaftaran santri baru Tahun Ajaran 2026/2027</h3>
+<h1>TMQ Rooihatul Jannah Hidayatullah</h1>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" make_equal="on" _builder_version="4.16" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.16" custom_css_main_element="position: relative;||background: #FFFFFF;||border-radius: 20px;||padding: 40px;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);" global_colors_info="{}"][et_pb_blurb title="Syarat Pendaftaran" use_icon="on" font_icon="&#xe052;||divi||400" icon_color="#ffffff" icon_placement="left" _builder_version="4.24.2" header_font="|||on|||||" header_letter_spacing="4px" animation="off" custom_css_blurb_image="background: #7CDA25;||position: absolute;||width: 60px;||height: 60px;||text-align: center;||padding: 9px;||border-radius: 60px;||left: -65px;||border: 5px solid #FFFFFF;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);" global_colors_info="{}"]<ul>
+<li>Pendaftaran Online, klik : <strong>psb.pondokroja.com<br /></strong><em>(atau klik tombol dibawah)</em></li>
+<li>FC Kartu Keluarga</li>
+</ul>[/et_pb_blurb][/et_pb_column][et_pb_column type="1_2" _builder_version="4.16" custom_css_main_element="position: relative;||background: #FFFFFF;||border-radius: 20px;||padding: 40px;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);" global_colors_info="{}"][et_pb_blurb title="Waktu Pendaftaran" use_icon="on" font_icon="&#xe06b;||divi||400" icon_color="#ffffff" icon_placement="left" _builder_version="4.24.2" header_font="|||on|||||" header_letter_spacing="4px" animation="off" custom_css_blurb_image="background: #FF147B;||position: absolute;||width: 60px;||height: 60px;||text-align: center;||padding: 8px;||border-radius: 60px;||left: -65px;||border: 5px solid #FFFFFF;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);" global_colors_info="{}"]<ul>
+<li><strong>PENDAFTARAN:<br /></strong>5 Desember 2025 s/d 30 Maret 2026</li>
+</ul>
+<ul>
+<li><strong>TES SELEKSI:<br /></strong>Menyusul</li>
+</ul>
+<p><em>Pendaftaran ditutup sewaktu-waktu bila kuota terpenuhi</em></p>[/et_pb_blurb][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" make_equal="on" _builder_version="4.16" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.16" custom_css_main_element="position: relative;||background: #FFFFFF;||border-radius: 20px;||padding: 40px;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);" global_colors_info="{}"][et_pb_blurb title="BIAYA PENDIDIKAN" use_icon="on" font_icon="&#xf555;||fa||900" icon_color="#ffffff" icon_placement="left" _builder_version="4.24.2" header_font="|||on|||||" header_letter_spacing="4px" animation="off" custom_css_blurb_image="background: #7CDA25;||position: absolute;||width: 60px;||height: 60px;||text-align: center;||padding: 9px;||border-radius: 60px;||left: -65px;||border: 5px solid #FFFFFF;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);" global_colors_info="{}"]<ol>
+<li>Pendaftaran : <strong>Rp 300.000</strong> / Awal masuk</li>
+<li>Wakaf Tunai <strong>Rp 4.000.000</strong></li>
+<li>Seragam 4 stel <strong>Rp 1.000.000</strong> / Awal masuk</li>
+<li>Syahriyah (makan, asrama &amp; SPP) : <strong>Rp 750.000</strong> / Bulan</li>
+<li>Kasur + Bantal <strong>Rp 550.000</strong></li>
+<li>Lemari <strong>Rp 400.000</strong></li>
+<li>Kesantrian <strong>Rp 450.000</strong> / semester</li>
+<li>LKS : <strong>Rp 250.000</strong> / Semester</li>
+<li>Kitab <strong>Rp 500.000</strong> / Tahun</li>
+</ol>[/et_pb_blurb][/et_pb_column][et_pb_column type="1_2" _builder_version="4.16" custom_css_main_element="position: relative;||background: #FFFFFF;||border-radius: 20px;||padding: 40px;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);" global_colors_info="{}"][et_pb_blurb title="TES SELEKSI" use_icon="on" font_icon="&#xf328;||fa||400" icon_color="#ffffff" icon_placement="left" _builder_version="4.24.2" header_font="|||on|||||" header_letter_spacing="4px" animation="off" custom_css_blurb_image="background: #FF147B;||position: absolute;||width: 60px;||height: 60px;||text-align: center;||padding: 8px;||border-radius: 60px;||left: -65px;||border: 5px solid #FFFFFF;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);" global_colors_info="{}"]<ul>
+<li>Hafalan/Baca-Tulis Al Qur'an</li>
+<li>Pengetahuan Dasar Islam</li>
+<li>Matematika</li>
+<li>Ipa</li>
+<li>B. Indonesia</li>
+<li>B. Inggris</li>
+</ul>
+<p>&nbsp;</p>[/et_pb_blurb][/et_pb_column][/et_pb_row][et_pb_row custom_padding_last_edited="on|phone" _builder_version="4.16" custom_padding_tablet="0px||" custom_padding_phone="" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.16" global_colors_info="{}"][et_pb_button button_url="https://psb.pondokroja.com" url_new_window="on" button_text="Daftar Sekarang" button_alignment="center" _builder_version="4.16" custom_button="on" button_text_size="16px" button_text_color="#ffffff" button_bg_color="#FF147B" button_border_width="5px" button_border_color="#FF147B" button_border_radius="5px" button_letter_spacing="2px" button_font="|700||on|||||" button_use_icon="off" custom_margin="||-22px" custom_css_main_element="box-shadow: 0 14px 26px -12px rgba(233,30,99,.42), 0 4px 23px 0 rgba(0,0,0,.12), 0 8px 10px -5px rgba(233,30,99,.2);" locked="off" global_colors_info="{}" button_letter_spacing__hover_enabled="on" button_letter_spacing__hover="4px"][/et_pb_button][/et_pb_column][/et_pb_row][/et_pb_section]

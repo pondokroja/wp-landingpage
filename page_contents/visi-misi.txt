@@ -1,0 +1,22 @@
+﻿[et_pb_section fb_built="1" fullwidth="on" _builder_version="3.25.4" background_color="#F86E01" custom_padding="0px||0px" bottom_divider_style="ramp2" bottom_divider_color="#F7F9FB" bottom_divider_height="148px" bottom_divider_flip="horizontal"][et_pb_fullwidth_header title="Visi & Misi" _builder_version="3.25.4" title_font="||||||||" title_font_size="40px" background_color="#F86E01" custom_padding="32px||29px|||"][/et_pb_fullwidth_header][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.25.4" background_color="#F7F9FB"][et_pb_row _builder_version="3.25.4"][et_pb_column type="4_4" _builder_version="3.25.4"][et_pb_blurb title="VISI" module_class="blurb-full-width" _builder_version="3.25.4" custom_margin="||5px" custom_css_blurb_title="background: #FF147B;||color: #FFFFFF;||font-weight: 300;||text-transform: uppercase;||letter-spacing: 4px;||margin-bottom: 0;||padding: 15px 40px 15px 40px;||border-top-left-radius: 20px;||border-bottom-right-radius: 20px;||position: absolute;||left: 40px;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);||top: -27.5px;" custom_css_blurb_content="padding: 50px 40px 70px 40px;||border-radius: 20px 5px 20px 5px;||background-color: #FFFFFF;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);"]Lembaga Pendidikan Islam Pencetak Kader Pemimpin Umat yang berakhlaq mulia, berwawasan luas, dan mampu mengembangkan diri untuk tegaknya peradapan Islam.[/et_pb_blurb][et_pb_blurb title="Misi" module_class="blurb-full-width" _builder_version="3.25.4" custom_css_blurb_title="background: #FF147B;||color: #FFFFFF;||font-weight: 300;||text-transform: uppercase;||letter-spacing: 4px;||margin-bottom: 0;||padding: 15px 40px 15px 40px;||border-top-left-radius: 20px;||border-bottom-right-radius: 20px;||position: absolute;||left: 40px;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);||top: -27.5px;" custom_css_blurb_content="padding: 60px 40px 40px 40px;||border-radius: 20px 5px 20px 5px;||background-color: #FFFFFF;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);"]<table class="table-list" style="margin-bottom: 0;">
+<tbody>
+<tr>
+<td>1.</td>
+<td></td>
+<td>Membentuk generasi muslim yang unggul, berdikari, berpengetahuan luas siap menjadi da'i dan ulama yang intelek.</td>
+<td></td>
+</tr>
+<tr>
+<td>2.</td>
+<td></td>
+<td>Membentuk karakter atau pribadi muslim yang bertauhid, beriman dan menjalankan syariah Allah.</td>
+<td></td>
+</tr>
+<tr>
+<td>3.</td>
+<td></td>
+<td>Menjadikan kampus pesantren Rooihatul Jannah sebagai lembaga berkualitas yang representatif, eksekutif &amp; kreatif serta menjadi rujukan ummat.</td>
+<td></td>
+</tr>
+</tbody>
+</table>[/et_pb_blurb][/et_pb_column][/et_pb_row][/et_pb_section]

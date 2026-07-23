@@ -1,0 +1,189 @@
+﻿[et_pb_section fb_built="1" fullwidth="on" _builder_version="3.25.4" background_color="#F86E01" custom_padding="0px||0px" bottom_divider_style="ramp2" bottom_divider_color="#F7F9FB" bottom_divider_flip="horizontal"][et_pb_fullwidth_header title="Kegiatan" _builder_version="3.25.4" title_font="||||||||" title_font_size="40px" background_color="#F86E01" custom_padding="32px||29px|||"]<p>Berbagai aktifitas santri di pondok baik formal ataupun non formal dibuat jadwal secara rutin dan teratur dengan batasan-batasan waktu. Adapun jadwal kegiatan rutin tersebut adalah sebagai berikut :</p>[/et_pb_fullwidth_header][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.25.4" background_color="#F7F9FB"][et_pb_row custom_padding="0px||0px|||" _builder_version="3.25.4"][et_pb_column type="4_4" _builder_version="3.25.4"][et_pb_text _builder_version="3.25.4" text_font="||||||||" text_text_align="center" text_text_color="#ffffff" header_font="|||on|||||" header_text_align="center" header_letter_spacing="4px" header_3_font="|300||on|||||" header_3_letter_spacing="4px"]<h3>JADWAL KEGIATAN</h3>
+<h1>TARBIYATUL MUHAFIDZOTIL QUR?AN</h1>
+<h3>PESANTREN ROOIHATUL JANNAH  HIDAYATULLAH SUKOHARJO</h3>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.25.4" background_color="#F7F9FB" custom_padding="0px||65px|||"][et_pb_row custom_margin="||40px" _builder_version="3.25.4" custom_css_main_element="box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);||border-radius: 20px;||padding: 40px;||background: #FFFFFF;"][et_pb_column type="4_4" _builder_version="3.25.4"][et_pb_text _builder_version="3.25.4" text_font="||||||||" text_text_align="center" text_text_color="#ffffff" text_letter_spacing="2px" header_font="|||on|||||" header_text_align="center" header_letter_spacing="4px" header_3_font="|300||on|||||" header_3_letter_spacing="4px" header_4_font="|||on|||||" header_4_text_color="#F86E01" header_5_font="||||||||"]<h4>A. Harian</h4>[/et_pb_text][et_pb_text module_class="small-table" _builder_version="3.25.4"]<div class="table-responsive">
+<p>W64P</p>
+<table>
+<thead>
+<tr>
+<th>No</th>
+<th>Waktu</th>
+<th>Kegiatan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>03.00 - 03.30</td>
+<td>Sholat tahajud</td>
+</tr>
+<tr>
+<td>2</td>
+<td>03.30 - 04.00</td>
+<td>Piket Kamar, MCK, Tahfidz Pribadi</td>
+</tr>
+<tr>
+<td>3</td>
+<td>04.00 - 04.45</td>
+<td>Sholat Subuh &amp; Wirid</td>
+</tr>
+<tr>
+<td>4</td>
+<td>04.45 - 06.15</td>
+<td>Setoran Tahfidzul Qur'an Ziyadah (Setoran menambah hafalan)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>06.15 - 07.30</td>
+<td>Kebersihan (piket) /MCK dan makan (sarapan pagi)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>07.30 - 11.40</td>
+<td>KBM Formal</td>
+</tr>
+<tr>
+<td>7</td>
+<td>11.40 - 12.10</td>
+<td>Sholat Dzuhur</td>
+</tr>
+<tr>
+<td>8</td>
+<td>12.10 - 13.00</td>
+<td>Makan siang</td>
+</tr>
+<tr>
+<td>9</td>
+<td>13.00 - 14.00</td>
+<td>Tahfidz siang</td>
+</tr>
+<tr>
+<td>10</td>
+<td>14.00 - 15.00</td>
+<td>Istirahat / tidur siang</td>
+</tr>
+<tr>
+<td>11</td>
+<td>15.00 - 15.45</td>
+<td>Sholat Ashar &amp; Wirid</td>
+</tr>
+<tr>
+<td>12</td>
+<td>15.45 - 17.00</td>
+<td>Setoran Tahfidz Muroja'ah (mengulang hafalan)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>17.00 - 17.10</td>
+<td>Mufrodad</td>
+</tr>
+<tr>
+<td>14</td>
+<td>17.10 - 19.00</td>
+<td>Tahsin + Sholat Maghrib dan Makan Malam</td>
+</tr>
+<tr>
+<td>15</td>
+<td>19.00 - 19.30</td>
+<td>Sholat Isya'</td>
+</tr>
+<tr>
+<td>16</td>
+<td>19.30 - 20.30</td>
+<td>Tahfidz Malam</td>
+</tr>
+<tr>
+<td>17</td>
+<td>20.30 - 21.00</td>
+<td>Persiapan Tidur</td>
+</tr>
+<tr>
+<td>18</td>
+<td>21.00 - 03.00</td>
+<td>Wajib Tidur</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.25.4" custom_css_main_element="box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);||border-radius: 20px;||padding: 40px;||background: #FFFFFF;"][et_pb_column type="4_4" _builder_version="3.25.4"][et_pb_text _builder_version="3.25.4" text_font="||||||||" text_text_align="center" text_text_color="#ffffff" text_letter_spacing="2px" header_font="|||on|||||" header_text_align="center" header_letter_spacing="4px" header_3_font="|300||on|||||" header_3_letter_spacing="4px" header_4_font="|||on|||||" header_4_text_color="#F86E01" header_5_font="||||||||"]<h4>B. PEKAN</h4>[/et_pb_text][et_pb_text module_class="small-table" _builder_version="3.25.4"]<div class="table-responsive">
+<table>
+    <thead>
+        <tr>
+            <th>No</th>
+            <th>Hari</th>
+            <th>Agenda</th>
+            <th>Waktu</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Senin dan Kamis</td>
+            <td>Puasa sunah</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Ahad</td>
+            <td>Tapak suci</td>
+            <td>15.45 - 15.00</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Sabtu</td>
+            <td>Memanah</td>
+            <td>15.45 - 17-00</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Jumat</td>
+            <td>Pandu</td>
+            <td>15.45 - 17.00</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Malam Kamis</td>
+            <td>Muhadhoroh</td>
+            <td>20.00 - 21.00</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Jumat Pagi</td>
+            <td>Tasmi' Satu Juz</td>
+            <td>05.00 - 06.00</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Jumat</td>
+            <td>Latihan memasak (dibuat kelompok)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Jumat ke-4</td>
+            <td>Jalan pagi keluar pondok</td>
+            <td>07.00 - 08.00</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Setiap Jumat</td>
+            <td>Amal Jamai'</td>
+            <td>08.00 - 09.00</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Ahad</td>
+            <td>Tasmi' 5 - 10 juz bergilir</td>
+            <td>07.30 - selesai</td>
+        </tr>
+    </tbody>
+</table>
+</div>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]

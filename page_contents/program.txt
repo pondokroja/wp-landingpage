@@ -1,0 +1,88 @@
+﻿[et_pb_section fb_built="1" fullwidth="on" _builder_version="4.16" background_color="#F86E01" custom_padding="0px||0px" bottom_divider_style="ramp2" bottom_divider_color="#F7F9FB" bottom_divider_flip="horizontal" global_colors_info="{}"][et_pb_fullwidth_header title="Program" _builder_version="4.16" title_font="||||||||" title_font_size="40px" background_color="#F86E01" custom_padding="32px||29px|||" global_colors_info="{}"]<div id="sistem-pendidikan-formal"></div>
+Sistem pendidikan yang digunakan di Pondok Roja adalah sistem pendidikan formal dan non formal.[/et_pb_fullwidth_header][/et_pb_section][et_pb_section fb_built="1" _builder_version="4.16" background_color="#F7F9FB" global_colors_info="{}"][et_pb_row _builder_version="4.16" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.16" global_colors_info="{}"][et_pb_blurb title="Sistem Pendidikan Formal" module_id="fix-program" module_class="blurb-full-width" _builder_version="4.16" custom_margin="||5px" custom_css_blurb_title="background: #FF147B;||color: #FFFFFF;||font-weight: 300;||text-transform: uppercase;||letter-spacing: 4px;||margin-bottom: 0;||padding: 15px 40px 15px 40px;||border-top-left-radius: 20px;||border-bottom-right-radius: 20px;||position: absolute;||left: 40px;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);||top: -27.5px;" custom_css_blurb_content="padding: 60px 40px 70px 40px;||border-radius: 20px 5px 20px 5px;||background-color: #FFFFFF;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);" global_colors_info="{}"]<p>Yaitu sistem pendidikan klasikal selama lima hari (Senin, Selasa, Rabu, Kamis dan Sabtu) hari Jum?at kegiatan bahasa dan tasmi' shogir sedangkan hari Ahad acara pengembangan minat dan bakat. Dalam satu pekan para santri masuk kelas mulai pukul. 07.30 s/d 11.50 WIB diselingi dengan istirahat. 09.30 s/d 09.45, sholat Dhuhur pada pukul. 12.00 s/d 13.00 WIB dan dilanjutkan menghafal Al- qur?an binafsi dengan dipantau ustadzah sampai jam 14.00.</p>
+<div id="sistem-pendidikan-nonformal"></div>
+<p>Dalam satu hari para siswa mendapatkan pembelajaran tujuh jam pelajaran dengan alokasi waktu 40 menit setiap masing-masing mata pelajaran. Materi kepondokan dan materi non kepondokan disusun secara acak tanpa memandang waktu kegiatan pagi atau siang. Adapun untuk kegiatan extrakurikuler dilaksanakan pada sore harinya yaitu dimulai (ba?da Ashar).</p>[/et_pb_blurb][et_pb_blurb title="Sistem Pendidikan Nonformal" module_id="fix-program" module_class="blurb-full-width" _builder_version="4.16" custom_margin="||5px" custom_css_blurb_title="background: #FF147B;||color: #FFFFFF;||font-weight: 300;||text-transform: uppercase;||letter-spacing: 4px;||margin-bottom: 0;||padding: 15px 40px 15px 40px;||border-top-left-radius: 20px;||border-bottom-right-radius: 20px;||position: absolute;||left: 40px;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);||top: -27.5px;" custom_css_blurb_content="padding: 60px 40px 40px 40px;||border-radius: 20px 5px 20px 5px;||background-color: #FFFFFF;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);" global_colors_info="{}"]<table class="table-list" style="margin-bottom: 0;">
+    <tbody>
+    <tr>
+    <td>a.</td>
+    <td></td>
+    <td>Ta?lim Ulumid Diniyyah, kegiatan ini adalah kegiatan yang memfokuskan pada penggalian potensi santri dalam wacana keilmuan dengan mempelajari buku-buku Diniyyah karangan ulama? ? ulama? yang terkenal kredibilitasnya, sehingga santri diharapkan bisa mengambil faidah sebanyaknya dan berusaha mengamalkannya sesuai kemampuannya dengan selalu mengikhlaskan niat dan sesuai tutunan wahyu Alloh (Al-Qur?an) dan sunnah Rasul-Nya (As-Sunnah).</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>b.</td>
+    <td></td>
+    <td>Organisasi Santri ( OS ), yaitu sebagai wadah latihan santri untuk berorganisasi, menjadi pemimpin ataupun manajer yang mampu mengembangkan diri dengan selalu menempa diri agar kreatif dan inovatif.</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>c.</td>
+    <td></td>
+    <td>Kepanduan dan Bela diri, adalah Kegiatan yang berada di bawah kendali OS yang dalam hal ini seluruh santri diwajibkan untuk ikut serta dengan tujuan melatih fisik agar sehat.</td>
+    <td></td>
+    </tr>
+    <tr>
+        <td>d.</td>
+        <td></td>
+        <td>Club Bahasa, merupakan club/kelompok yang beranggotakan para santri yang berkomitmen dalam meningkatkan dan mengembangkan bahasa Arab ataupun bahasa Inggris.</td>
+        <td></td>
+        </tr>
+        <tr>
+            <td>e.</td>
+            <td></td>
+            <td>Club Kaligrafi, yaitu wadah untuk mengembangkan bakat para santri yang mempunyai potensi yang besar dalam dunia seni tulis-menulis kaligrafi arabnya.</td>
+            <td></td>
+            </tr>
+            <tr>
+                <td>f.</td>
+                <td></td>
+                <td>Muhawaroh Shobahiyyah, adalah kegiatan rutin harian yang bertujuan agar para santri bisa mempraktekkan teori bahasa yang telah didapatkan sebelumya.</td>
+                <td></td>
+                </tr><tr>
+                    <td>g.</td>
+                    <td></td>
+                    <td>Muhadharah, merupakan kegiatan yang khusus diformat untuk menggali potensi para santri dalam berpidato sehingga nantinya diharapkan akan muncul para da?i yang kompeten dalam berdakwah.</td>
+                    <td></td>
+                    </tr>
+                    <tr>
+                        <td>h.</td>
+                        <td></td>
+                        <td>Mukhoyyamah Tholabah (perkemahan santri)</td>
+                        <td></td>
+                        </tr>
+                        <tr>
+                            <td>i.</td>
+                            <td></td>
+                            <td>Life Skill dan Wirausaha, merupakan kegiatan yang dipersiapkan agar para santri punya pengalaman berwiraswasta dan kerja mandiri. Yang meliputi : Menjahit, sablon, peternakan, pertanian, tataboga, progremer computer.</td>
+                            <td></td>
+                            </tr>
+                            <tr>
+                                <td>j.</td>
+                                <td></td>
+                                <td>Out Bound, adalah salah satu kegiatan santri yang diformat tidak hanya agar para santri bisa terjun ke alam bebas untuk mengasah kreatifitas mereka, akan tetapi juga untuk bisa bertafakkur tentang kebesaran ciptaan Alloh Azza Wa Jalla.</td>
+                                <td></td>
+                                </tr>
+                                <tr>
+                                    <td>k.</td>
+                                    <td></td>
+                                    <td>Training motivasi dan Paket Tsaqofah Islamiyyah.</td>
+                                    <td></td>
+                                    </tr>
+    </tbody>
+    </table>[/et_pb_blurb][et_pb_blurb title="Ekstra Kulikuler" module_id="fix-program" module_class="blurb-full-width fix-program-ext" _builder_version="4.16" header_font="||||||||" custom_css_blurb_title="background: #7CDA24;||color: #FFFFFF;||font-weight: 300;||text-transform: uppercase;||letter-spacing: 4px;||margin-bottom: 0;||padding: 15px 40px 15px 40px;||border-top-left-radius: 20px;||border-bottom-right-radius: 20px;||position: absolute;||left: 40px;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);||top: -27.5px;" custom_css_blurb_content="padding: 60px 40px 40px 40px;||border-radius: 20px 5px 20px 5px;||background-color: #FFFFFF;||box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 13px 24px -11px rgba(0,0,0,0);" global_colors_info="{}"]<ol style="padding-bottom: 0;">
+<li>Pandu Hidayatullah</li>
+<li>Muhadhoroh (Arab - Inggris - Indonesia)</li>
+<li>Archery Club (Club Memanah)</li>
+<li>Keorganisasian</li>
+<li>Beladiri / Tapak Suci</li>
+<li>Tata Boga</li>
+<li> Basatin ( berkebun )</li>
+<li>Berkuda</li>
+<li>Kimia</li>
+<li>Kerajinan Tangan</li>
+<li>Perfilman</li>
+<li>Berenang</li>
+<li>Bulu Tangkis</li>
+<li>Jurnalis</li>
+<li>Bahasa Asing</li>
+</ol>[/et_pb_blurb][/et_pb_column][/et_pb_row][/et_pb_section]

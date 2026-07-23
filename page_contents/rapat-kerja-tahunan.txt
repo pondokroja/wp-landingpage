@@ -1,0 +1,69 @@
+﻿<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1269,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://pondokroja.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-10-at-14.14.21-1-1024x1024.jpeg" alt="" class="wp-image-1269"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph -->
+<p>Tawangmangu, 28-30 Juni 2022<br>Alhamdulillah rangkaian agenda Rapat Kerja Pondok Rooihatul Jannah telah terlaksana. Ustadzah Rohimah Zahratul Jannah selaku Kepala TMQ Pondok Roja menutup secara resmi rapat kerja tersebut pada Kamis pagi, (30/06/2022).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Agenda rapat kerja yang berlangsung sejak Selasa sangat padat, diawali dengan pembukaan, pembacaan SK pengurus baru, dilanjutkan dengan pemaparan sistem AOS Pondok Roja. Sistem ini meliputi Kurikulum, Tahfidz, HRGL, Wali kamar dan kegiatan-kegiatan lainnya.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Diharapkan program - program yang sudah terencana ini dapat membantu serta memudahkan Pondok Roja dengan 3 program mainstreamnya yakni :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Mutqin Eksploratif</li><li>Kelas Multinasional</li><li>Bilingual<br>Dapat terwujud dengan baik.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Dengan berakhirnya agenda Rapat kerja ini semoga keberkahan ilmu dan tenaga turut membuat perkembangan Pondok Roja semakin melejit juga menunjang peran serta amanah keumatan yang diemban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>__</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PONDOK ROJA<br>"SIAPAPUN BERHAK MENJADI APAPUN DALAM BINGKAI AL QUR'AN"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PSB Indent, Pondok Roja. Call center/WA center :<br>https://wa.me/6281215134887</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>@majalahhidayatullah<br>@hidayatullah_online<br>@hidayatullahidn</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1>hidayatullah #hidayatullah_sukoharjo #PondokRoja #santriitukeren #santriwatiindonesia #indonesiamenghafalquran #indonesiamengaji #yukmengaji #hijrahcinta #akhwat #beranihijrah #pesantrenku #caripesantren #pesantrentahfizh #menghafalquran #santriwatiroja #santriwatiindonesia #santriwaticantik #pondokrojauntukindonesia</h1>
+<!-- /wp:heading -->
+
+<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1224,"sizeSlug":"large","linkDestination":"none","className":"is-style-default"} -->
+<figure class="wp-block-image size-large is-style-default"><img src="https://pondokroja.com/wp-content/uploads/2022/07/IMG-20220630-WA0027-1024x1024.jpg" alt="" class="wp-image-1224"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1225,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://pondokroja.com/wp-content/uploads/2022/07/IMG-20220630-WA0025-1024x1024.jpg" alt="" class="wp-image-1225"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1226,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://pondokroja.com/wp-content/uploads/2022/07/IMG-20220630-WA0026-1024x1024.jpg" alt="" class="wp-image-1226"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1227,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://pondokroja.com/wp-content/uploads/2022/07/IMG-20220630-WA0028-1024x1024.jpg" alt="" class="wp-image-1227"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img alt=""/></figure>
+<!-- /wp:image -->
+
+<p>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]</p>
