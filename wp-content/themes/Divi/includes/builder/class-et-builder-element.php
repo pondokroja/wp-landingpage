@@ -29,6 +29,13 @@ class ET_Builder_Element {
 	public $name;
 
 	/**
+	 * Legacy template name (Extra).
+	 *
+	 * @var string
+	 */
+	public $template_name;
+
+	/**
 	 * Module plural name.
 	 *
 	 * @var string
@@ -134,6 +141,13 @@ class ET_Builder_Element {
 	 * @var array
 	 */
 	public $defaults;
+
+	/**
+	 * Legacy fields defaults.
+	 *
+	 * @var array
+	 */
+	public $fields_defaults;
 
 	/**
 	 * Additional shortcode slugs.
@@ -1171,7 +1185,15 @@ class ET_Builder_Element {
 			}
 
 			foreach ( $shortcode_slugs as $shortcode_slug ) {
-				add_shortcode( $shortcode_slug, array( $this, '_render' ) );
+				if ( $this->_is_woocommerce_module ) {
+					if ( et_is_woocommerce_plugin_active() ) {
+						add_shortcode( $shortcode_slug, array( $this, '_render' ) );
+					} else {
+						add_shortcode( $shortcode_slug, '__return_empty_string' );
+					}
+				} else {
+					add_shortcode( $shortcode_slug, array( $this, '_render' ) );
+				}
 			}
 
 			if ( isset( $this->additional_shortcode ) ) {
@@ -2219,7 +2241,7 @@ class ET_Builder_Element {
 		$shortcode_attributes      = array();
 		$font_icon_options         = et_pb_get_font_icon_field_names();
 		$font_icon_options_as_keys = array_flip( $font_icon_options );
-		$url_options               = array( 'url', 'button_link', 'button_url' );
+		$url_options               = array( 'url', 'button_link', 'button_url', 'image_src', 'redirect_url' );
 		$url_options_as_keys       = array_flip( $url_options );
 
 		foreach ( $this->props as $attribute_key => $attribute_value ) {
@@ -12579,7 +12601,7 @@ class ET_Builder_Element {
 
 		// Sort fields within tabs by priority.
 		foreach ( $tabs_fields as $tab_fields ) {
-			uasort( $tab_fields, array( 'self', 'compare_by_priority' ) );
+			uasort( $tab_fields, array( 'ET_Builder_Element', 'compare_by_priority' ) );
 			$sorted_fields = array_merge( $sorted_fields, $tab_fields );
 		}
 
@@ -13459,7 +13481,7 @@ class ET_Builder_Element {
 				continue;
 			}
 
-			$global_color_info = et_builder_get_all_global_colors();
+			$global_color_info = et_builder_get_all_global_colors( true );
 
 			// If there are no matching Global Colors, return null.
 			if ( ! is_array( $global_color_info ) ) {
@@ -18254,7 +18276,7 @@ class ET_Builder_Element {
 			 */
 			$sorted_modules = $parent_modules;
 
-			uasort( $sorted_modules, array( 'self', 'compare_by_name' ) );
+			uasort( $sorted_modules, array( 'ET_Builder_Element', 'compare_by_name' ) );
 
 			foreach ( $sorted_modules as $module ) {
 				/**
@@ -21625,7 +21647,7 @@ class ET_Builder_Element {
 		}
 		$data_icon = $use_data_icon ? sprintf(
 			' data-icon="%1$s"',
-			esc_attr( et_pb_process_font_icon( $args['custom_icon'] ) )
+			esc_attr( html_entity_decode( et_pb_process_font_icon( $args['custom_icon'] ), ENT_QUOTES, 'UTF-8' ) )
 		) : '';
 
 		$use_data_icon_tablet = '' !== $args['custom_icon_tablet'] && 'on' === $args['button_custom'];
@@ -21634,7 +21656,7 @@ class ET_Builder_Element {
 		}
 		$data_icon_tablet = $use_data_icon_tablet ? sprintf(
 			' data-icon-tablet="%1$s"',
-			esc_attr( et_pb_process_font_icon( $args['custom_icon_tablet'] ) )
+			esc_attr( html_entity_decode( et_pb_process_font_icon( $args['custom_icon_tablet'] ), ENT_QUOTES, 'UTF-8' ) )
 		) : '';
 
 		$use_data_icon_phone = '' !== $args['custom_icon_phone'] && 'on' === $args['button_custom'];
@@ -21643,7 +21665,7 @@ class ET_Builder_Element {
 		}
 		$data_icon_phone = $use_data_icon_phone ? sprintf(
 			' data-icon-phone="%1$s"',
-			esc_attr( et_pb_process_font_icon( $args['custom_icon_phone'] ) )
+			esc_attr( html_entity_decode( et_pb_process_font_icon( $args['custom_icon_phone'] ), ENT_QUOTES, 'UTF-8' ) )
 		) : '';
 
 		// Render button.

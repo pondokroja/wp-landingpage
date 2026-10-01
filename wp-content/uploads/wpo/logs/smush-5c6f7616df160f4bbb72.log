@@ -1,0 +1,1278 @@
+[2026-09-14 16:23:55 : INFO] - Re_Smush_It_Task server status: Online 
+[2026-09-14 16:24:04 : INFO] - A total of 126 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:24:04 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2026-09-14 16:24:04 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2026-09-14 16:24:04 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2026-09-14 16:24:04 : INFO] - Re_Smush_It_Task - Attachment ID : 220, Started on : September 14, 2026 04:23:55 
+[2026-09-14 16:24:04 : INFO] - File: Ulasan-Buku-“Hermeneutika-Feminisme-Reformasi-Gender-dalam-Islam”.png, Compression quality: 92 
+[2026-09-14 16:24:07 : INFO] - Backing up the original image - 2019/07/Ulasan-Buku-“Hermeneutika-Feminisme-Reformasi-Gender-dalam-Islam”-updraft-pre-smush-original.png 
+[2026-09-14 16:24:28 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Ulasan-Buku-“Hermeneutika-Feminisme-Reformasi-Gender-dalam-Islam”.png.The file was compressed from 237.64 KB to 237.64 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:24:28 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2026-09-14 16:24:28 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2026-09-14 16:24:28 : INFO] - Re_Smush_It_Task - Attachment ID : 222, Started on : September 14, 2026 04:23:55 
+[2026-09-14 16:24:28 : INFO] - File: Mengkritik-dan-Menasihati-Pemimpin-Menurut-Syariat-Islam.png, Compression quality: 92 
+[2026-09-14 16:24:31 : INFO] - Backing up the original image - 2019/07/Mengkritik-dan-Menasihati-Pemimpin-Menurut-Syariat-Islampng 
+[2026-09-14 16:24:34 : INFO] - Re_Smush_It_Task server status: Online 
+[2026-09-14 16:24:37 : INFO] - Task with ID 2 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1000 milliseconds with 0 bytes received 
+[2026-09-14 16:24:37 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2026-09-14 16:24:38 : INFO] - Task with ID 2 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1002 milliseconds with 0 bytes received 
+[2026-09-14 16:24:38 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2026-09-14 16:24:40 : INFO] - Task with ID 2 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1001 milliseconds with 0 bytes received 
+[2026-09-14 16:24:40 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2026-09-14 16:24:42 : INFO] - Task with ID 2 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1000 milliseconds with 0 bytes received 
+[2026-09-14 16:24:42 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2026-09-14 16:24:43 : INFO] - A total of 126 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:24:43 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:24:43 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:24:43 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:24:43 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2026-09-14 16:24:43 : INFO] - Task with ID 2 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1001 milliseconds with 0 bytes received 
+[2026-09-14 16:24:43 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2026-09-14 16:24:43 : INFO] - Successfully optimized the image - .The file was compressed to N/A using WP-Optimize 
+[2026-09-14 16:24:43 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2026-09-14 16:24:43 : INFO] - The task with id : 3, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 4, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 5, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 6, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 7, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 8, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 9, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 10, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 11, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 12, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 13, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 14, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 15, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 16, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 17, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 18, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 19, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 20, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 21, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 22, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 23, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 24, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 25, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 26, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 27, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 28, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 29, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 30, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 31, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 32, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 33, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 34, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 35, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 36, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 37, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 38, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 39, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 40, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 41, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 42, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 43, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 44, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 45, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 46, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 47, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 48, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 49, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 50, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 51, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 52, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 53, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 54, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 55, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 56, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 57, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 58, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 59, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 60, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 61, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 62, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 63, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 64, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 65, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 66, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 67, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 68, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 69, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 70, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 71, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 72, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 73, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 74, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 75, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 76, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 77, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 78, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 79, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 80, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 81, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 82, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 83, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 84, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 85, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 86, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 87, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 88, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 89, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 90, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 91, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 92, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 93, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 94, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 95, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 96, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 97, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 98, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 99, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 100, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 101, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 102, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 103, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 104, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 105, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 106, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 107, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 108, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 109, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 110, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 111, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 112, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 113, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 114, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 115, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 116, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 117, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 118, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 119, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 120, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 121, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 122, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 123, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 124, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 125, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - The task with id : 126, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:24:43 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2026-09-14 16:24:43 : INFO] - Successfully processed the queue (smush). 126 tasks were processed out of 126. 
+[2026-09-14 16:24:43 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2026-09-14 16:25:37 : INFO] - A total of 126 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:25:37 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2026-09-14 16:25:37 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2026-09-14 16:25:37 : INFO] - Processing task with ID : 127, and type 'smush' 
+[2026-09-14 16:25:37 : INFO] - Re_Smush_It_Task - Attachment ID : 220, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:25:37 : INFO] - File: Ulasan-Buku-“Hermeneutika-Feminisme-Reformasi-Gender-dalam-Islam”.png, Compression quality: 92 
+[2026-09-14 16:25:39 : INFO] - Backing up the original image - 2019/07/Ulasan-Buku-“Hermeneutika-Feminisme-Reformasi-Gender-dalam-Islam”-updraft-pre-smush-original.png 
+[2026-09-14 16:25:53 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Ulasan-Buku-“Hermeneutika-Feminisme-Reformasi-Gender-dalam-Islam”.png.The file was compressed from 237.64 KB to 237.64 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:25:53 : INFO] - Completed processing task with ID : 127, and type 'smush' 
+[2026-09-14 16:25:53 : INFO] - Processing task with ID : 128, and type 'smush' 
+[2026-09-14 16:25:53 : INFO] - Re_Smush_It_Task - Attachment ID : 222, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:25:53 : INFO] - File: Mengkritik-dan-Menasihati-Pemimpin-Menurut-Syariat-Islam.png, Compression quality: 92 
+[2026-09-14 16:25:55 : INFO] - Backing up the original image - 2019/07/Mengkritik-dan-Menasihati-Pemimpin-Menurut-Syariat-Islam-updraft-pre-smush-original.png 
+[2026-09-14 16:26:09 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Mengkritik-dan-Menasihati-Pemimpin-Menurut-Syariat-Islam.png.The file was compressed from 150.99 KB to 150.99 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:26:09 : INFO] - Completed processing task with ID : 128, and type 'smush' 
+[2026-09-14 16:26:09 : INFO] - Processing task with ID : 129, and type 'smush' 
+[2026-09-14 16:26:09 : INFO] - Re_Smush_It_Task - Attachment ID : 223, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:26:09 : INFO] - File: Dapatkah-Ekonomi-Politik-Islam-Mengatasi-Masalah-Kemiskinan-di-Indonesia.png, Compression quality: 92 
+[2026-09-14 16:26:12 : INFO] - Backing up the original image - 2019/07/Dapatkah-Ekonomi-Politik-Islam-Mengatasi-Masalah-Kemiskinan-di-Indonesia-updraft-pre-smush-original.png 
+[2026-09-14 16:26:33 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Dapatkah-Ekonomi-Politik-Islam-Mengatasi-Masalah-Kemiskinan-di-Indonesia.png.The file was compressed from 222.23 KB to 222.23 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:26:33 : INFO] - Completed processing task with ID : 129, and type 'smush' 
+[2026-09-14 16:26:33 : INFO] - Processing task with ID : 130, and type 'smush' 
+[2026-09-14 16:26:33 : INFO] - Re_Smush_It_Task - Attachment ID : 225, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:26:33 : INFO] - File: Islam-Butuh-Konsep-Persatuan-Umat.png, Compression quality: 92 
+[2026-09-14 16:26:36 : INFO] - Backing up the original image - 2019/07/Islam-Butuh-Konsep-Persatuan-Umat-updraft-pre-smush-original.png 
+[2026-09-14 16:26:50 : INFO] - A total of 123 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:26:50 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:26:50 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:26:50 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:26:50 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2026-09-14 16:26:55 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Islam-Butuh-Konsep-Persatuan-Umat.png.The file was compressed from 164.24 KB to 164.24 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:26:55 : INFO] - Completed processing task with ID : 130, and type 'smush' 
+[2026-09-14 16:26:55 : INFO] - Processing task with ID : 131, and type 'smush' 
+[2026-09-14 16:26:55 : INFO] - Re_Smush_It_Task - Attachment ID : 234, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:26:55 : INFO] - File: Slide-01.jpg, Compression quality: 92 
+[2026-09-14 16:27:02 : INFO] - Backing up the original image - 2019/07/Slide-01-updraft-pre-smush-original.jpg 
+[2026-09-14 16:27:33 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Slide-01.jpg.The file was compressed from 299.96 KB to 265.11 KB, saving 11.62 percent, using WP-Optimize 
+[2026-09-14 16:27:33 : INFO] - Completed processing task with ID : 131, and type 'smush' 
+[2026-09-14 16:27:33 : INFO] - Processing task with ID : 132, and type 'smush' 
+[2026-09-14 16:27:33 : INFO] - Re_Smush_It_Task - Attachment ID : 322, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:27:33 : INFO] - File: Bg.png, Compression quality: 92 
+[2026-09-14 16:27:35 : INFO] - Backing up the original image - 2019/07/Bg-updraft-pre-smush-original.png 
+[2026-09-14 16:27:48 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Bg.png.The file was compressed from 16.43 KB to 16.40 KB, saving 0.15 percent, using WP-Optimize 
+[2026-09-14 16:27:48 : INFO] - Completed processing task with ID : 132, and type 'smush' 
+[2026-09-14 16:27:48 : INFO] - Processing task with ID : 133, and type 'smush' 
+[2026-09-14 16:27:48 : INFO] - Re_Smush_It_Task - Attachment ID : 325, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:27:48 : INFO] - File: Group-2.png, Compression quality: 92 
+[2026-09-14 16:27:49 : INFO] - Backing up the original image - 2019/07/Group-2-updraft-pre-smush-original.png 
+[2026-09-14 16:27:49 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Group-2.png.The file was compressed from 441 bytes to 285 bytes, saving 35.37 percent, using WP-Optimize 
+[2026-09-14 16:27:49 : INFO] - Completed processing task with ID : 133, and type 'smush' 
+[2026-09-14 16:27:49 : INFO] - Processing task with ID : 134, and type 'smush' 
+[2026-09-14 16:27:49 : INFO] - Re_Smush_It_Task - Attachment ID : 375, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:27:49 : INFO] - File: Slide-02.jpg, Compression quality: 92 
+[2026-09-14 16:27:56 : INFO] - Backing up the original image - 2019/07/Slide-02-updraft-pre-smush-original.jpg 
+[2026-09-14 16:28:23 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Slide-02.jpg.The file was compressed from 291.78 KB to 244.53 KB, saving 16.19 percent, using WP-Optimize 
+[2026-09-14 16:28:23 : INFO] - Completed processing task with ID : 134, and type 'smush' 
+[2026-09-14 16:28:23 : INFO] - Processing task with ID : 135, and type 'smush' 
+[2026-09-14 16:28:23 : INFO] - Re_Smush_It_Task - Attachment ID : 385, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:28:23 : INFO] - File: Slide-03.jpg, Compression quality: 92 
+[2026-09-14 16:28:30 : INFO] - Backing up the original image - 2019/07/Slide-03-updraft-pre-smush-original.jpg 
+[2026-09-14 16:28:54 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Slide-03.jpg.The file was compressed from 221.59 KB to 185.57 KB, saving 16.25 percent, using WP-Optimize 
+[2026-09-14 16:28:54 : INFO] - Completed processing task with ID : 135, and type 'smush' 
+[2026-09-14 16:28:54 : INFO] - Processing task with ID : 136, and type 'smush' 
+[2026-09-14 16:28:54 : INFO] - Re_Smush_It_Task - Attachment ID : 388, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:28:54 : INFO] - File: Slide-04.jpg, Compression quality: 92 
+[2026-09-14 16:29:00 : INFO] - Backing up the original image - 2019/07/Slide-04-updraft-pre-smush-original.jpg 
+[2026-09-14 16:29:25 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Slide-04.jpg.The file was compressed from 216.98 KB to 185.81 KB, saving 14.37 percent, using WP-Optimize 
+[2026-09-14 16:29:25 : INFO] - Completed processing task with ID : 136, and type 'smush' 
+[2026-09-14 16:29:25 : INFO] - Processing task with ID : 137, and type 'smush' 
+[2026-09-14 16:29:25 : INFO] - Re_Smush_It_Task - Attachment ID : 463, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:29:25 : INFO] - File: Quote.png, Compression quality: 92 
+[2026-09-14 16:29:26 : INFO] - Backing up the original image - 2019/07/Quote-updraft-pre-smush-original.png 
+[2026-09-14 16:29:26 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Quote.png.The file was compressed from 472 bytes to 472 bytes, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:29:26 : INFO] - Completed processing task with ID : 137, and type 'smush' 
+[2026-09-14 16:29:26 : INFO] - Processing task with ID : 138, and type 'smush' 
+[2026-09-14 16:29:26 : INFO] - Re_Smush_It_Task - Attachment ID : 464, Started on : September 14, 2026 04:24:35 
+[2026-09-14 16:29:26 : INFO] - File: People-01.png, Compression quality: 92 
+[2026-09-14 16:29:28 : INFO] - Backing up the original image - 2019/07/People-01-updraft-pre-smush-original.png 
+[2026-09-14 16:29:30 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/People-01.png.The file was compressed from 83.49 KB to 27.92 KB, saving 66.55 percent, using WP-Optimize 
+[2026-09-14 16:29:30 : INFO] - Completed processing task with ID : 138, and type 'smush' 
+[2026-09-14 16:29:30 : INFO] - Processing task with ID : 139, and type 'smush' 
+[2026-09-14 16:29:30 : INFO] - Re_Smush_It_Task - Attachment ID : 465, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:29:30 : INFO] - File: People-02.png, Compression quality: 92 
+[2026-09-14 16:29:32 : INFO] - Backing up the original image - 2019/07/People-02-updraft-pre-smush-original.png 
+[2026-09-14 16:29:34 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/People-02.png.The file was compressed from 67.06 KB to 25.02 KB, saving 62.7 percent, using WP-Optimize 
+[2026-09-14 16:29:34 : INFO] - Completed processing task with ID : 139, and type 'smush' 
+[2026-09-14 16:29:34 : INFO] - Processing task with ID : 140, and type 'smush' 
+[2026-09-14 16:29:34 : INFO] - Re_Smush_It_Task - Attachment ID : 591, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:29:34 : INFO] - File: Logo.png, Compression quality: 92 
+[2026-09-14 16:29:35 : INFO] - Backing up the original image - 2019/07/Logo-updraft-pre-smush-original.png 
+[2026-09-14 16:29:36 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Logo.png.The file was compressed from 17.99 KB to 5.00 KB, saving 72.22 percent, using WP-Optimize 
+[2026-09-14 16:29:36 : INFO] - Completed processing task with ID : 140, and type 'smush' 
+[2026-09-14 16:29:36 : INFO] - Processing task with ID : 141, and type 'smush' 
+[2026-09-14 16:29:36 : INFO] - Re_Smush_It_Task - Attachment ID : 592, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:29:36 : INFO] - File: Favicon-62x62.png, Compression quality: 92 
+[2026-09-14 16:29:38 : INFO] - Backing up the original image - 2019/07/Favicon-62x62-updraft-pre-smush-original.png 
+[2026-09-14 16:29:38 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Favicon-62x62.png.The file was compressed from 7.14 KB to 2.98 KB, saving 58.25 percent, using WP-Optimize 
+[2026-09-14 16:29:38 : INFO] - Completed processing task with ID : 141, and type 'smush' 
+[2026-09-14 16:29:38 : INFO] - Processing task with ID : 142, and type 'smush' 
+[2026-09-14 16:29:38 : INFO] - Re_Smush_It_Task - Attachment ID : 593, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:29:38 : INFO] - File: cropped-Favicon-62x62.png, Compression quality: 92 
+[2026-09-14 16:29:41 : INFO] - Backing up the original image - 2019/07/cropped-Favicon-62x62-updraft-pre-smush-original.png 
+[2026-09-14 16:30:03 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/cropped-Favicon-62x62.png.The file was compressed from 133.18 KB to 58.13 KB, saving 56.35 percent, using WP-Optimize 
+[2026-09-14 16:30:03 : INFO] - Completed processing task with ID : 142, and type 'smush' 
+[2026-09-14 16:30:03 : INFO] - Processing task with ID : 143, and type 'smush' 
+[2026-09-14 16:30:03 : INFO] - Re_Smush_It_Task - Attachment ID : 599, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:30:03 : INFO] - File: 01.jpg, Compression quality: 92 
+[2026-09-14 16:30:08 : INFO] - Backing up the original image - 2019/07/01-updraft-pre-smush-original.jpg 
+[2026-09-14 16:30:30 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/01.jpg.The file was compressed from 238.72 KB to 190.22 KB, saving 20.31 percent, using WP-Optimize 
+[2026-09-14 16:30:30 : INFO] - Completed processing task with ID : 143, and type 'smush' 
+[2026-09-14 16:30:30 : INFO] - Processing task with ID : 144, and type 'smush' 
+[2026-09-14 16:30:30 : INFO] - Re_Smush_It_Task - Attachment ID : 600, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:30:30 : INFO] - File: 02.jpg, Compression quality: 92 
+[2026-09-14 16:30:35 : INFO] - A total of 109 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:30:35 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:30:35 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:30:35 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:30:35 : INFO] - Cleaning up tasks of type (smush). A total of 14 tasks will be deleted. 
+[2026-09-14 16:30:35 : INFO] - Backing up the original image - 2019/07/02-updraft-pre-smush-original.jpg 
+[2026-09-14 16:30:55 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/02.jpg.The file was compressed from 163.24 KB to 128.25 KB, saving 21.44 percent, using WP-Optimize 
+[2026-09-14 16:30:55 : INFO] - Completed processing task with ID : 144, and type 'smush' 
+[2026-09-14 16:30:55 : INFO] - Processing task with ID : 145, and type 'smush' 
+[2026-09-14 16:30:55 : INFO] - Re_Smush_It_Task - Attachment ID : 601, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:30:55 : INFO] - File: 03.jpg, Compression quality: 92 
+[2026-09-14 16:31:00 : INFO] - Backing up the original image - 2019/07/03-updraft-pre-smush-original.jpg 
+[2026-09-14 16:31:21 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/03.jpg.The file was compressed from 187.91 KB to 149.50 KB, saving 20.44 percent, using WP-Optimize 
+[2026-09-14 16:31:21 : INFO] - Completed processing task with ID : 145, and type 'smush' 
+[2026-09-14 16:31:21 : INFO] - Processing task with ID : 146, and type 'smush' 
+[2026-09-14 16:31:21 : INFO] - Re_Smush_It_Task - Attachment ID : 602, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:31:21 : INFO] - File: 04.jpg, Compression quality: 92 
+[2026-09-14 16:31:26 : INFO] - Backing up the original image - 2019/07/04-updraft-pre-smush-original.jpg 
+[2026-09-14 16:31:35 : INFO] - A total of 107 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:31:35 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2026-09-14 16:31:38 : INFO] - Task with ID 146 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:31:38 : INFO] - Processing task with ID : 147, and type 'smush' 
+[2026-09-14 16:31:38 : INFO] - Re_Smush_It_Task - Attachment ID : 605, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:31:38 : INFO] - File: 05.jpg, Compression quality: 92 
+[2026-09-14 16:31:43 : INFO] - Backing up the original image - 2019/07/05-updraft-pre-smush-original.jpg 
+[2026-09-14 16:31:49 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/04.jpg.The file was compressed from 264.72 KB to 190.53 KB, saving 28.03 percent, using WP-Optimize 
+[2026-09-14 16:31:49 : INFO] - Completed processing task with ID : 146, and type 'smush' 
+[2026-09-14 16:31:52 : INFO] - Task with ID 147 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:31:52 : INFO] - Processing task with ID : 148, and type 'smush' 
+[2026-09-14 16:31:52 : INFO] - Re_Smush_It_Task - Attachment ID : 606, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:31:52 : INFO] - File: 06.jpg, Compression quality: 92 
+[2026-09-14 16:31:57 : INFO] - Backing up the original image - 2019/07/06-updraft-pre-smush-original.jpg 
+[2026-09-14 16:32:07 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/05.jpg.The file was compressed from 294.20 KB to 221.26 KB, saving 24.79 percent, using WP-Optimize 
+[2026-09-14 16:32:07 : INFO] - Completed processing task with ID : 147, and type 'smush' 
+[2026-09-14 16:32:10 : INFO] - Task with ID 148 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:32:10 : INFO] - Processing task with ID : 149, and type 'smush' 
+[2026-09-14 16:32:10 : INFO] - Re_Smush_It_Task - Attachment ID : 607, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:32:10 : INFO] - File: 07.jpg, Compression quality: 92 
+[2026-09-14 16:32:14 : INFO] - Backing up the original image - 2019/07/07-updraft-pre-smush-original.jpg 
+[2026-09-14 16:32:19 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/06.jpg.The file was compressed from 252.03 KB to 190.37 KB, saving 24.46 percent, using WP-Optimize 
+[2026-09-14 16:32:19 : INFO] - Completed processing task with ID : 148, and type 'smush' 
+[2026-09-14 16:32:22 : INFO] - Task with ID 149 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:32:22 : INFO] - Processing task with ID : 150, and type 'smush' 
+[2026-09-14 16:32:22 : INFO] - Re_Smush_It_Task - Attachment ID : 608, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:32:22 : INFO] - File: 08.jpg, Compression quality: 92 
+[2026-09-14 16:32:27 : INFO] - Backing up the original image - 2019/07/08-updraft-pre-smush-original.jpg 
+[2026-09-14 16:32:35 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/07.jpg.The file was compressed from 193.65 KB to 156.91 KB, saving 18.97 percent, using WP-Optimize 
+[2026-09-14 16:32:35 : INFO] - Completed processing task with ID : 149, and type 'smush' 
+[2026-09-14 16:32:38 : INFO] - Task with ID 150 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:32:38 : INFO] - Processing task with ID : 151, and type 'smush' 
+[2026-09-14 16:32:38 : INFO] - Re_Smush_It_Task - Attachment ID : 615, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:32:38 : INFO] - File: 09.jpg, Compression quality: 92 
+[2026-09-14 16:32:43 : INFO] - Backing up the original image - 2019/07/09-updraft-pre-smush-original.jpg 
+[2026-09-14 16:32:49 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/08.jpg.The file was compressed from 194.79 KB to 156.28 KB, saving 19.77 percent, using WP-Optimize 
+[2026-09-14 16:32:49 : INFO] - Completed processing task with ID : 150, and type 'smush' 
+[2026-09-14 16:32:52 : INFO] - A total of 102 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:32:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:32:52 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:32:52 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:32:52 : INFO] - Cleaning up tasks of type (smush). A total of 7 tasks will be deleted. 
+[2026-09-14 16:32:52 : INFO] - Task with ID 151 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:32:52 : INFO] - Processing task with ID : 152, and type 'smush' 
+[2026-09-14 16:32:53 : INFO] - Task with ID 152 and type (smush) failed with error code exceeded_max_filesize - /var/www/html/wp-content/uploads/2019/07/09.png - cannot be optimized, file size is above service provider limit 
+[2026-09-14 16:32:53 : INFO] - Processing task with ID : 153, and type 'smush' 
+[2026-09-14 16:32:53 : INFO] - Re_Smush_It_Task - Attachment ID : 617, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:32:53 : INFO] - File: 10.jpg, Compression quality: 92 
+[2026-09-14 16:33:01 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/09.jpg.The file was compressed from 230.83 KB to 179.14 KB, saving 22.4 percent, using WP-Optimize 
+[2026-09-14 16:33:01 : INFO] - Completed processing task with ID : 151, and type 'smush' 
+[2026-09-14 16:33:01 : INFO] - Processing task with ID : 152, and type 'smush' 
+[2026-09-14 16:33:01 : INFO] - Task with ID 152 and type (smush) failed with error code exceeded_max_filesize - /var/www/html/wp-content/uploads/2019/07/09.png - cannot be optimized, file size is above service provider limit 
+[2026-09-14 16:33:01 : INFO] - Backing up the original image - 2019/07/10-updraft-pre-smush-original.jpg 
+[2026-09-14 16:33:04 : INFO] - Task with ID 153 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:33:04 : INFO] - Processing task with ID : 154, and type 'smush' 
+[2026-09-14 16:33:04 : INFO] - Re_Smush_It_Task - Attachment ID : 618, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:33:04 : INFO] - File: 11.jpg, Compression quality: 92 
+[2026-09-14 16:33:09 : INFO] - Backing up the original image - 2019/07/11-updraft-pre-smush-original.jpg 
+[2026-09-14 16:33:21 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/10.jpg.The file was compressed from 317.70 KB to 232.32 KB, saving 26.88 percent, using WP-Optimize 
+[2026-09-14 16:33:21 : INFO] - Completed processing task with ID : 153, and type 'smush' 
+[2026-09-14 16:33:24 : INFO] - Task with ID 154 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:33:24 : INFO] - Processing task with ID : 155, and type 'smush' 
+[2026-09-14 16:33:24 : INFO] - Re_Smush_It_Task - Attachment ID : 619, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:33:24 : INFO] - File: 12.jpg, Compression quality: 92 
+[2026-09-14 16:33:27 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/11.jpg.The file was compressed from 221.47 KB to 173.51 KB, saving 21.66 percent, using WP-Optimize 
+[2026-09-14 16:33:27 : INFO] - Completed processing task with ID : 154, and type 'smush' 
+[2026-09-14 16:33:28 : INFO] - Backing up the original image - 2019/07/12-updraft-pre-smush-original.jpg 
+[2026-09-14 16:33:30 : INFO] - Task with ID 155 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:33:30 : INFO] - Processing task with ID : 156, and type 'smush' 
+[2026-09-14 16:33:30 : INFO] - Re_Smush_It_Task - Attachment ID : 620, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:33:30 : INFO] - File: 13.jpg, Compression quality: 92 
+[2026-09-14 16:33:34 : INFO] - Backing up the original image - 2019/07/13-updraft-pre-smush-original.jpg 
+[2026-09-14 16:33:44 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/12.jpg.The file was compressed from 163.81 KB to 131.02 KB, saving 20.01 percent, using WP-Optimize 
+[2026-09-14 16:33:44 : INFO] - Completed processing task with ID : 155, and type 'smush' 
+[2026-09-14 16:33:47 : INFO] - Task with ID 156 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:33:47 : INFO] - Processing task with ID : 157, and type 'smush' 
+[2026-09-14 16:33:47 : INFO] - Re_Smush_It_Task - Attachment ID : 621, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:33:47 : INFO] - File: 14.jpg, Compression quality: 92 
+[2026-09-14 16:33:51 : INFO] - Backing up the original image - 2019/07/14-updraft-pre-smush-original.jpg 
+[2026-09-14 16:33:51 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/13.jpg.The file was compressed from 233.08 KB to 176.96 KB, saving 24.08 percent, using WP-Optimize 
+[2026-09-14 16:33:51 : INFO] - Completed processing task with ID : 156, and type 'smush' 
+[2026-09-14 16:33:52 : INFO] - A total of 96 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:33:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:33:52 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:33:52 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:33:52 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2026-09-14 16:33:54 : INFO] - Task with ID 157 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:33:54 : INFO] - Processing task with ID : 158, and type 'smush' 
+[2026-09-14 16:33:54 : INFO] - Re_Smush_It_Task - Attachment ID : 622, Started on : September 14, 2026 04:24:36 
+[2026-09-14 16:33:54 : INFO] - File: 15.jpg, Compression quality: 92 
+[2026-09-14 16:33:59 : INFO] - Backing up the original image - 2019/07/15-updraft-pre-smush-original.jpg 
+[2026-09-14 16:34:08 : INFO] - A total of 95 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:34:08 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:34:08 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:34:08 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:34:10 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/14.jpg.The file was compressed from 248.45 KB to 185.68 KB, saving 25.26 percent, using WP-Optimize 
+[2026-09-14 16:34:10 : INFO] - Completed processing task with ID : 157, and type 'smush' 
+[2026-09-14 16:34:13 : INFO] - Task with ID 158 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:34:13 : INFO] - Processing task with ID : 159, and type 'smush' 
+[2026-09-14 16:34:13 : INFO] - Re_Smush_It_Task - Attachment ID : 623, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:34:13 : INFO] - File: 16.jpg, Compression quality: 92 
+[2026-09-14 16:34:15 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/15.jpg.The file was compressed from 137.04 KB to 106.55 KB, saving 22.25 percent, using WP-Optimize 
+[2026-09-14 16:34:15 : INFO] - Completed processing task with ID : 158, and type 'smush' 
+[2026-09-14 16:34:17 : INFO] - Backing up the original image - 2019/07/16-updraft-pre-smush-original.jpg 
+[2026-09-14 16:34:18 : INFO] - Task with ID 159 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:34:18 : INFO] - Processing task with ID : 160, and type 'smush' 
+[2026-09-14 16:34:18 : INFO] - Re_Smush_It_Task - Attachment ID : 624, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:34:18 : INFO] - File: 17.jpg, Compression quality: 92 
+[2026-09-14 16:34:22 : INFO] - Backing up the original image - 2019/07/17-updraft-pre-smush-original.jpg 
+[2026-09-14 16:34:34 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/16.jpg.The file was compressed from 145.91 KB to 116.77 KB, saving 19.97 percent, using WP-Optimize 
+[2026-09-14 16:34:34 : INFO] - Completed processing task with ID : 159, and type 'smush' 
+[2026-09-14 16:34:37 : INFO] - Task with ID 160 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:34:37 : INFO] - Processing task with ID : 161, and type 'smush' 
+[2026-09-14 16:34:37 : INFO] - Re_Smush_It_Task - Attachment ID : 625, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:34:37 : INFO] - File: 18.jpg, Compression quality: 92 
+[2026-09-14 16:34:38 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/17.jpg.The file was compressed from 118.34 KB to 95.35 KB, saving 19.43 percent, using WP-Optimize 
+[2026-09-14 16:34:38 : INFO] - Completed processing task with ID : 160, and type 'smush' 
+[2026-09-14 16:34:41 : INFO] - Task with ID 161 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:34:41 : INFO] - Processing task with ID : 162, and type 'smush' 
+[2026-09-14 16:34:41 : INFO] - Re_Smush_It_Task - Attachment ID : 626, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:34:41 : INFO] - File: 19.jpg, Compression quality: 92 
+[2026-09-14 16:34:42 : INFO] - Backing up the original image - 2019/07/18-updraft-pre-smush-original.jpg 
+[2026-09-14 16:34:44 : INFO] - Backing up the original image - 2019/07/19-updraft-pre-smush-original.jpg 
+[2026-09-14 16:34:52 : INFO] - A total of 91 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:34:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:34:52 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:34:52 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:34:52 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2026-09-14 16:34:58 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/18.jpg.The file was compressed from 129.00 KB to 103.92 KB, saving 19.45 percent, using WP-Optimize 
+[2026-09-14 16:34:58 : INFO] - Completed processing task with ID : 161, and type 'smush' 
+[2026-09-14 16:35:01 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/19.jpg.The file was compressed from 123.86 KB to 101.70 KB, saving 17.88 percent, using WP-Optimize 
+[2026-09-14 16:35:01 : INFO] - Completed processing task with ID : 162, and type 'smush' 
+[2026-09-14 16:35:01 : INFO] - Processing task with ID : 163, and type 'smush' 
+[2026-09-14 16:35:01 : INFO] - Re_Smush_It_Task - Attachment ID : 627, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:35:01 : INFO] - File: 20.jpg, Compression quality: 92 
+[2026-09-14 16:35:01 : INFO] - Task with ID 162 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:35:04 : INFO] - Task with ID 163 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:35:04 : INFO] - Processing task with ID : 164, and type 'smush' 
+[2026-09-14 16:35:04 : INFO] - Re_Smush_It_Task - Attachment ID : 628, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:35:04 : INFO] - File: 21.jpg, Compression quality: 92 
+[2026-09-14 16:35:04 : INFO] - Backing up the original image - 2019/07/20-updraft-pre-smush-original.jpg 
+[2026-09-14 16:35:07 : INFO] - Backing up the original image - 2019/07/21-updraft-pre-smush-original.jpg 
+[2026-09-14 16:35:21 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/20.jpg.The file was compressed from 139.84 KB to 108.52 KB, saving 22.4 percent, using WP-Optimize 
+[2026-09-14 16:35:21 : INFO] - Completed processing task with ID : 163, and type 'smush' 
+[2026-09-14 16:35:24 : INFO] - Task with ID 164 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:35:24 : INFO] - Processing task with ID : 165, and type 'smush' 
+[2026-09-14 16:35:24 : INFO] - Re_Smush_It_Task - Attachment ID : 629, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:35:24 : INFO] - File: 22.jpg, Compression quality: 92 
+[2026-09-14 16:35:24 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/21.jpg.The file was compressed from 135.65 KB to 109.46 KB, saving 19.31 percent, using WP-Optimize 
+[2026-09-14 16:35:24 : INFO] - Completed processing task with ID : 164, and type 'smush' 
+[2026-09-14 16:35:27 : INFO] - Task with ID 165 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:35:27 : INFO] - Processing task with ID : 166, and type 'smush' 
+[2026-09-14 16:35:27 : INFO] - Re_Smush_It_Task - Attachment ID : 689, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:35:27 : INFO] - File: WhatsApp.png, Compression quality: 92 
+[2026-09-14 16:35:27 : INFO] - Backing up the original image - 2019/07/22-updraft-pre-smush-original.jpg 
+[2026-09-14 16:35:29 : INFO] - Backing up the original image - 2019/07/WhatsApp-updraft-pre-smush-original.png 
+[2026-09-14 16:35:31 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/WhatsApp.png.The file was compressed from 25.31 KB to 18.55 KB, saving 26.73 percent, using WP-Optimize 
+[2026-09-14 16:35:31 : INFO] - Completed processing task with ID : 166, and type 'smush' 
+[2026-09-14 16:35:31 : INFO] - Processing task with ID : 167, and type 'smush' 
+[2026-09-14 16:35:31 : INFO] - Re_Smush_It_Task - Attachment ID : 944, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:35:31 : INFO] - File: Goresan-Hati-Seorang-Ibu-Untuk-Anaknya-Yang-Sedang-Belajar-Di-Pondok-Roja.jpg, Compression quality: 92 
+[2026-09-14 16:35:36 : INFO] - Backing up the original image - 2019/07/Goresan-Hati-Seorang-Ibu-Untuk-Anaknya-Yang-Sedang-Belajar-Di-Pondok-Roja-updraft-pre-smush-original.jpg 
+[2026-09-14 16:35:44 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/22.jpg.The file was compressed from 144.05 KB to 114.13 KB, saving 20.77 percent, using WP-Optimize 
+[2026-09-14 16:35:44 : INFO] - Completed processing task with ID : 165, and type 'smush' 
+[2026-09-14 16:35:44 : INFO] - Processing task with ID : 166, and type 'smush' 
+[2026-09-14 16:35:44 : INFO] - Re_Smush_It_Task - Attachment ID : 689, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:35:44 : INFO] - File: WhatsApp.png, Compression quality: 92 
+[2026-09-14 16:35:46 : INFO] - Backing up the original image - 2019/07/WhatsApp-updraft-pre-smush-original.png 
+[2026-09-14 16:35:48 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/WhatsApp.png.The file was compressed from 18.55 KB to 18.55 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:35:48 : INFO] - Completed processing task with ID : 166, and type 'smush' 
+[2026-09-14 16:35:51 : INFO] - Task with ID 167 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:35:51 : INFO] - Processing task with ID : 168, and type 'smush' 
+[2026-09-14 16:35:51 : INFO] - Re_Smush_It_Task - Attachment ID : 947, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:35:51 : INFO] - File: Minimal-Murah-Maksimal-gratis.jpg, Compression quality: 92 
+[2026-09-14 16:35:52 : INFO] - A total of 85 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:35:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:35:52 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:35:52 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:35:52 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2026-09-14 16:35:58 : INFO] - Backing up the original image - 2019/07/Minimal-Murah-Maksimal-gratis-updraft-pre-smush-original.jpg 
+[2026-09-14 16:36:00 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Goresan-Hati-Seorang-Ibu-Untuk-Anaknya-Yang-Sedang-Belajar-Di-Pondok-Roja.jpg.The file was compressed from 135.41 KB to 107.33 KB, saving 20.74 percent, using WP-Optimize 
+[2026-09-14 16:36:00 : INFO] - Completed processing task with ID : 167, and type 'smush' 
+[2026-09-14 16:36:03 : INFO] - Task with ID 168 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:36:03 : INFO] - Processing task with ID : 169, and type 'smush' 
+[2026-09-14 16:36:03 : INFO] - Re_Smush_It_Task - Attachment ID : 950, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:36:03 : INFO] - File: Menangislah-Sebelum-Menangis-Itu-Di-Larang.jpg, Compression quality: 92 
+[2026-09-14 16:36:08 : INFO] - Backing up the original image - 2019/07/Menangislah-Sebelum-Menangis-Itu-Di-Larang-updraft-pre-smush-original.jpg 
+[2026-09-14 16:36:25 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Minimal-Murah-Maksimal-gratis.jpg.The file was compressed from 226.66 KB to 191.78 KB, saving 15.39 percent, using WP-Optimize 
+[2026-09-14 16:36:25 : INFO] - Completed processing task with ID : 168, and type 'smush' 
+[2026-09-14 16:36:28 : INFO] - Task with ID 169 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:36:28 : INFO] - Processing task with ID : 170, and type 'smush' 
+[2026-09-14 16:36:28 : INFO] - Re_Smush_It_Task - Attachment ID : 998, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:36:28 : INFO] - File: Cover.jpg, Compression quality: 92 
+[2026-09-14 16:36:30 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Menangislah-Sebelum-Menangis-Itu-Di-Larang.jpg.The file was compressed from 95.62 KB to 85.46 KB, saving 10.63 percent, using WP-Optimize 
+[2026-09-14 16:36:30 : INFO] - Completed processing task with ID : 169, and type 'smush' 
+[2026-09-14 16:36:33 : INFO] - Backing up the original image - 2019/07/Cover-updraft-pre-smush-original.jpg 
+[2026-09-14 16:36:33 : INFO] - Task with ID 170 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:36:33 : INFO] - Processing task with ID : 171, and type 'smush' 
+[2026-09-14 16:36:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1051, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:36:33 : INFO] - File: 728x90-Qurban-1-1.gif, Compression quality: 92 
+[2026-09-14 16:36:36 : INFO] - Backing up the original image - 2019/09/728x90-Qurban-1-1-updraft-pre-smush-original.gif 
+[2026-09-14 16:36:41 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/09/728x90-Qurban-1-1.gif.The file was compressed from 162.66 KB to 162.66 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:36:41 : INFO] - Completed processing task with ID : 171, and type 'smush' 
+[2026-09-14 16:36:41 : INFO] - Processing task with ID : 172, and type 'smush' 
+[2026-09-14 16:36:41 : INFO] - Re_Smush_It_Task - Attachment ID : 1057, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:36:41 : INFO] - File: WAKAF.gif, Compression quality: 92 
+[2026-09-14 16:36:46 : INFO] - Backing up the original image - 2019/09/WAKAF-updraft-pre-smush-original.gif 
+[2026-09-14 16:36:52 : INFO] - A total of 81 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:36:52 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2026-09-14 16:36:55 : INFO] - Task with ID 172 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:36:55 : INFO] - Processing task with ID : 173, and type 'smush' 
+[2026-09-14 16:36:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1071, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:36:55 : INFO] - File: IMG_2076.jpg, Compression quality: 92 
+[2026-09-14 16:36:58 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/07/Cover.jpg.The file was compressed from 150.78 KB to 118.55 KB, saving 21.37 percent, using WP-Optimize 
+[2026-09-14 16:36:58 : INFO] - Completed processing task with ID : 170, and type 'smush' 
+[2026-09-14 16:36:58 : INFO] - Processing task with ID : 171, and type 'smush' 
+[2026-09-14 16:36:58 : INFO] - Re_Smush_It_Task - Attachment ID : 1051, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:36:58 : INFO] - File: 728x90-Qurban-1-1.gif, Compression quality: 92 
+[2026-09-14 16:37:00 : INFO] - Backing up the original image - 2019/09/728x90-Qurban-1-1-updraft-pre-smush-original.gif 
+[2026-09-14 16:37:01 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/09/WAKAF.gif.The file was compressed from 2.73 MB to 2.73 MB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:37:01 : INFO] - Completed processing task with ID : 172, and type 'smush' 
+[2026-09-14 16:37:04 : INFO] - Task with ID 173 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:37:04 : INFO] - Processing task with ID : 174, and type 'smush' 
+[2026-09-14 16:37:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1078, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:37:04 : INFO] - File: IMG_2076-1.jpg, Compression quality: 92 
+[2026-09-14 16:37:06 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/09/728x90-Qurban-1-1.gif.The file was compressed from 162.66 KB to 162.66 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:37:06 : INFO] - Completed processing task with ID : 171, and type 'smush' 
+[2026-09-14 16:37:06 : INFO] - Processing task with ID : 172, and type 'smush' 
+[2026-09-14 16:37:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1057, Started on : September 14, 2026 04:24:37 
+[2026-09-14 16:37:06 : INFO] - File: WAKAF.gif, Compression quality: 92 
+[2026-09-14 16:37:10 : INFO] - Backing up the original image - 2019/09/WAKAF-updraft-pre-smush-original.gif 
+[2026-09-14 16:37:25 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/09/WAKAF.gif.The file was compressed from 2.73 MB to 2.73 MB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:37:25 : INFO] - Completed processing task with ID : 172, and type 'smush' 
+[2026-09-14 16:37:28 : INFO] - Task with ID 173 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:37:31 : INFO] - Task with ID 174 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:37:31 : INFO] - Processing task with ID : 175, and type 'smush' 
+[2026-09-14 16:37:31 : INFO] - Task with ID 175 and type (smush) failed with error code exceeded_max_filesize - /var/www/html/wp-content/uploads/2020/05/DSC02582.jpg - cannot be optimized, file size is above service provider limit 
+[2026-09-14 16:37:31 : INFO] - Processing task with ID : 176, and type 'smush' 
+[2026-09-14 16:37:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1080, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:37:31 : INFO] - File: IMG_3106.jpg, Compression quality: 92 
+[2026-09-14 16:37:52 : INFO] - A total of 77 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:37:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:37:52 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:37:52 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:37:52 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2026-09-14 16:38:09 : INFO] - Backing up the original image - 2020/05/IMG_3106-updraft-pre-smush-original.jpg 
+[2026-09-14 16:38:35 : INFO] - Backing up the original image - 2020/05/IMG_2076-updraft-pre-smush-original.jpg 
+[2026-09-14 16:38:37 : INFO] - Backing up the original image - 2020/05/IMG_2076-1-updraft-pre-smush-original.jpg 
+[2026-09-14 16:38:55 : INFO] - A total of 77 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:38:55 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:38:55 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:38:55 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:39:02 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2020/05/IMG_3106.jpg.The file was compressed from 804.21 KB to 713.69 KB, saving 11.26 percent, using WP-Optimize 
+[2026-09-14 16:39:02 : INFO] - Completed processing task with ID : 176, and type 'smush' 
+[2026-09-14 16:39:02 : INFO] - Processing task with ID : 177, and type 'smush' 
+[2026-09-14 16:39:02 : INFO] - Task with ID 177 and type (smush) failed with error code exceeded_max_filesize - /var/www/html/wp-content/uploads/2020/07/20200714_105522_0000.png - cannot be optimized, file size is above service provider limit 
+[2026-09-14 16:39:02 : INFO] - Processing task with ID : 178, and type 'smush' 
+[2026-09-14 16:39:02 : INFO] - Re_Smush_It_Task - Attachment ID : 1098, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:39:02 : INFO] - File: 20200721_102601_0000.png, Compression quality: 92 
+[2026-09-14 16:39:25 : INFO] - Backing up the original image - 2020/07/20200721_102601_0000-updraft-pre-smush-original.png 
+[2026-09-14 16:39:41 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2020/05/IMG_2076.jpg.The file was compressed from 3.47 MB to 3.14 MB, saving 9.64 percent, using WP-Optimize 
+[2026-09-14 16:39:41 : INFO] - Completed processing task with ID : 173, and type 'smush' 
+[2026-09-14 16:39:41 : INFO] - Processing task with ID : 174, and type 'smush' 
+[2026-09-14 16:39:41 : INFO] - Re_Smush_It_Task - Attachment ID : 1078, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:39:41 : INFO] - File: IMG_2076-1.jpg, Compression quality: 92 
+[2026-09-14 16:39:44 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2020/05/IMG_2076-1.jpg.The file was compressed from 3.14 MB to 3.14 MB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:39:44 : INFO] - Completed processing task with ID : 174, and type 'smush' 
+[2026-09-14 16:39:44 : INFO] - Processing task with ID : 175, and type 'smush' 
+[2026-09-14 16:39:44 : INFO] - Task with ID 175 and type (smush) failed with error code exceeded_max_filesize - /var/www/html/wp-content/uploads/2020/05/DSC02582.jpg - cannot be optimized, file size is above service provider limit 
+[2026-09-14 16:39:44 : INFO] - Processing task with ID : 176, and type 'smush' 
+[2026-09-14 16:39:44 : INFO] - Re_Smush_It_Task - Attachment ID : 1080, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:39:44 : INFO] - File: IMG_3106.jpg, Compression quality: 92 
+[2026-09-14 16:39:45 : INFO] - Backing up the original image - 2020/05/IMG_2076-1-updraft-pre-smush-original.jpg 
+[2026-09-14 16:39:48 : INFO] - Backing up the original image - 2020/05/IMG_3106-updraft-pre-smush-original.jpg 
+[2026-09-14 16:40:09 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2020/05/IMG_2076-1.jpg.The file was compressed from 3.14 MB to 3.14 MB, saving 0.04 percent, using WP-Optimize 
+[2026-09-14 16:40:09 : INFO] - Completed processing task with ID : 174, and type 'smush' 
+[2026-09-14 16:40:09 : INFO] - Processing task with ID : 175, and type 'smush' 
+[2026-09-14 16:40:09 : INFO] - Task with ID 175 and type (smush) failed with error code exceeded_max_filesize - /var/www/html/wp-content/uploads/2020/05/DSC02582.jpg - cannot be optimized, file size is above service provider limit 
+[2026-09-14 16:40:09 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2020/05/IMG_3106.jpg.The file was compressed from 713.69 KB to 713.69 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:40:09 : INFO] - Completed processing task with ID : 176, and type 'smush' 
+[2026-09-14 16:40:09 : INFO] - Processing task with ID : 177, and type 'smush' 
+[2026-09-14 16:40:09 : INFO] - Task with ID 177 and type (smush) failed with error code exceeded_max_filesize - /var/www/html/wp-content/uploads/2020/07/20200714_105522_0000.png - cannot be optimized, file size is above service provider limit 
+[2026-09-14 16:40:09 : INFO] - Processing task with ID : 178, and type 'smush' 
+[2026-09-14 16:40:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1098, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:40:09 : INFO] - File: 20200721_102601_0000.png, Compression quality: 92 
+[2026-09-14 16:40:10 : INFO] - Processing task with ID : 176, and type 'smush' 
+[2026-09-14 16:40:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1080, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:40:10 : INFO] - File: IMG_3106.jpg, Compression quality: 92 
+[2026-09-14 16:40:13 : INFO] - Backing up the original image - 2020/05/IMG_3106-updraft-pre-smush-original.jpg 
+[2026-09-14 16:40:13 : INFO] - Backing up the original image - 2020/07/20200721_102601_0000-updraft-pre-smush-original.png 
+[2026-09-14 16:40:25 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2020/07/20200721_102601_0000.png.The file was compressed from 1.04 MB to 1.04 MB, saving 0.08 percent, using WP-Optimize 
+[2026-09-14 16:40:25 : INFO] - Completed processing task with ID : 178, and type 'smush' 
+[2026-09-14 16:40:25 : INFO] - Processing task with ID : 179, and type 'smush' 
+[2026-09-14 16:40:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1124, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:40:25 : INFO] - File: WhatsApp-Image-2021-10-06-at-13.34.06.jpeg, Compression quality: 92 
+[2026-09-14 16:40:31 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-06-at-13.34.06-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:40:34 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2020/05/IMG_3106.jpg.The file was compressed from 713.69 KB to 713.69 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:40:34 : INFO] - Completed processing task with ID : 176, and type 'smush' 
+[2026-09-14 16:40:34 : INFO] - Processing task with ID : 177, and type 'smush' 
+[2026-09-14 16:40:34 : INFO] - Task with ID 177 and type (smush) failed with error code exceeded_max_filesize - /var/www/html/wp-content/uploads/2020/07/20200714_105522_0000.png - cannot be optimized, file size is above service provider limit 
+[2026-09-14 16:40:34 : INFO] - Processing task with ID : 178, and type 'smush' 
+[2026-09-14 16:40:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1098, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:40:34 : INFO] - File: 20200721_102601_0000.png, Compression quality: 92 
+[2026-09-14 16:40:38 : INFO] - Backing up the original image - 2020/07/20200721_102601_0000-updraft-pre-smush-original.png 
+[2026-09-14 16:40:38 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2020/07/20200721_102601_0000.png.The file was compressed from 1.04 MB to 1.04 MB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:40:38 : INFO] - Completed processing task with ID : 178, and type 'smush' 
+[2026-09-14 16:40:41 : INFO] - Task with ID 179 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:40:41 : INFO] - Processing task with ID : 180, and type 'smush' 
+[2026-09-14 16:40:41 : INFO] - Re_Smush_It_Task - Attachment ID : 1141, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:40:41 : INFO] - File: WhatsApp-Image-2021-10-08-at-10.37.20-AM.jpeg, Compression quality: 92 
+[2026-09-14 16:40:47 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-08-at-10.37.20-AM-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:41:02 : INFO] - A total of 73 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:41:02 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:41:02 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:41:02 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:41:02 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2026-09-14 16:41:03 : INFO] - Successfully optimized the image - .The file was compressed to N/A using WP-Optimize 
+[2026-09-14 16:41:03 : INFO] - Completed processing task with ID : 178, and type 'smush' 
+[2026-09-14 16:41:04 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-06-at-13.34.06.jpeg.The file was compressed from 167.80 KB to 165.97 KB, saving 1.09 percent, using WP-Optimize 
+[2026-09-14 16:41:04 : INFO] - Completed processing task with ID : 179, and type 'smush' 
+[2026-09-14 16:41:04 : INFO] - Processing task with ID : 179, and type 'smush' 
+[2026-09-14 16:41:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1124, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:41:04 : INFO] - File: WhatsApp-Image-2021-10-06-at-13.34.06.jpeg, Compression quality: 92 
+[2026-09-14 16:41:07 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-06-at-13.34.06-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:41:07 : INFO] - Task with ID 180 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:41:07 : INFO] - Processing task with ID : 181, and type 'smush' 
+[2026-09-14 16:41:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1142, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:41:07 : INFO] - File: WhatsApp-Image-2021-10-08-at-10.37.21-AM1.jpeg, Compression quality: 92 
+[2026-09-14 16:41:13 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-08-at-10.37.21-AM1-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:41:21 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-08-at-10.37.20-AM.jpeg.The file was compressed from 175.62 KB to 175.29 KB, saving 0.19 percent, using WP-Optimize 
+[2026-09-14 16:41:21 : INFO] - Completed processing task with ID : 180, and type 'smush' 
+[2026-09-14 16:41:24 : INFO] - Task with ID 181 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:41:24 : INFO] - Processing task with ID : 182, and type 'smush' 
+[2026-09-14 16:41:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1143, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:41:24 : INFO] - File: WhatsApp-Image-2021-10-08-at-10.37.21-AM.jpeg, Compression quality: 92 
+[2026-09-14 16:41:25 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-06-at-13.34.06.jpeg.The file was compressed from 165.97 KB to 165.97 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:41:25 : INFO] - Completed processing task with ID : 179, and type 'smush' 
+[2026-09-14 16:41:25 : INFO] - Processing task with ID : 180, and type 'smush' 
+[2026-09-14 16:41:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1141, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:41:25 : INFO] - File: WhatsApp-Image-2021-10-08-at-10.37.20-AM.jpeg, Compression quality: 92 
+[2026-09-14 16:41:27 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-08-at-10.37.20-AM-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:41:29 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-08-at-10.37.21-AM-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:41:45 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-08-at-10.37.20-AM.jpeg.The file was compressed from 175.29 KB to 175.29 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:41:45 : INFO] - Completed processing task with ID : 180, and type 'smush' 
+[2026-09-14 16:41:46 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-08-at-10.37.21-AM1.jpeg.The file was compressed from 177.36 KB to 177.36 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:41:46 : INFO] - Completed processing task with ID : 181, and type 'smush' 
+[2026-09-14 16:41:47 : INFO] - Processing task with ID : 181, and type 'smush' 
+[2026-09-14 16:41:47 : INFO] - Re_Smush_It_Task - Attachment ID : 1142, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:41:47 : INFO] - File: WhatsApp-Image-2021-10-08-at-10.37.21-AM1.jpeg, Compression quality: 92 
+[2026-09-14 16:41:49 : INFO] - Task with ID 182 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:41:49 : INFO] - Processing task with ID : 183, and type 'smush' 
+[2026-09-14 16:41:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1153, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:41:49 : INFO] - File: WhatsApp-Image-2021-10-09-at-11.17.59-AM1.jpeg, Compression quality: 92 
+[2026-09-14 16:41:50 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-08-at-10.37.21-AM1-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:41:54 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-09-at-11.17.59-AM1-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:42:03 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-08-at-10.37.21-AM.jpeg.The file was compressed from 166.15 KB to 164.99 KB, saving 0.7 percent, using WP-Optimize 
+[2026-09-14 16:42:03 : INFO] - Completed processing task with ID : 182, and type 'smush' 
+[2026-09-14 16:42:06 : INFO] - Task with ID 183 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:42:06 : INFO] - Processing task with ID : 184, and type 'smush' 
+[2026-09-14 16:42:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1154, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:42:06 : INFO] - File: WhatsApp-Image-2021-10-09-at-11.17.59-AM.jpeg, Compression quality: 92 
+[2026-09-14 16:42:07 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-08-at-10.37.21-AM1.jpeg.The file was compressed from 177.36 KB to 177.36 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:42:07 : INFO] - Completed processing task with ID : 181, and type 'smush' 
+[2026-09-14 16:42:07 : INFO] - Processing task with ID : 182, and type 'smush' 
+[2026-09-14 16:42:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1143, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:42:07 : INFO] - File: WhatsApp-Image-2021-10-08-at-10.37.21-AM.jpeg, Compression quality: 92 
+[2026-09-14 16:42:10 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-08-at-10.37.21-AM-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:42:11 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-09-at-11.17.59-AM-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:42:20 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-09-at-11.17.59-AM1.jpeg.The file was compressed from 113.28 KB to 111.30 KB, saving 1.74 percent, using WP-Optimize 
+[2026-09-14 16:42:20 : INFO] - Completed processing task with ID : 183, and type 'smush' 
+[2026-09-14 16:42:23 : INFO] - Task with ID 184 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:42:23 : INFO] - Processing task with ID : 185, and type 'smush' 
+[2026-09-14 16:42:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1180, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:42:23 : INFO] - File: 237222991_558889485427433_5189676205230968894_n.jpg, Compression quality: 92 
+[2026-09-14 16:42:27 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-08-at-10.37.21-AM.jpeg.The file was compressed from 164.99 KB to 164.99 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:42:27 : INFO] - Completed processing task with ID : 182, and type 'smush' 
+[2026-09-14 16:42:27 : INFO] - Processing task with ID : 183, and type 'smush' 
+[2026-09-14 16:42:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1153, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:42:27 : INFO] - File: WhatsApp-Image-2021-10-09-at-11.17.59-AM1.jpeg, Compression quality: 92 
+[2026-09-14 16:42:29 : INFO] - Backing up the original image - 2021/10/237222991_558889485427433_5189676205230968894_n-updraft-pre-smush-original.jpg 
+[2026-09-14 16:42:30 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-09-at-11.17.59-AM1-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:42:44 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-09-at-11.17.59-AM1.jpeg.The file was compressed from 111.30 KB to 111.30 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:42:44 : INFO] - Completed processing task with ID : 183, and type 'smush' 
+[2026-09-14 16:42:47 : INFO] - Task with ID 184 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:42:50 : INFO] - Task with ID 185 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:42:50 : INFO] - Processing task with ID : 186, and type 'smush' 
+[2026-09-14 16:42:50 : INFO] - Re_Smush_It_Task - Attachment ID : 1181, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:42:50 : INFO] - File: 237222991_558889485427433_5189676205230968894_n-1.jpg, Compression quality: 92 
+[2026-09-14 16:42:56 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/237222991_558889485427433_5189676205230968894_n.jpg.The file was compressed from 311.02 KB to 129.69 KB, saving 58.3 percent, using WP-Optimize 
+[2026-09-14 16:42:56 : INFO] - Completed processing task with ID : 185, and type 'smush' 
+[2026-09-14 16:42:57 : INFO] - Backing up the original image - 2021/10/237222991_558889485427433_5189676205230968894_n-1-updraft-pre-smush-original.jpg 
+[2026-09-14 16:42:59 : INFO] - Task with ID 186 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:42:59 : INFO] - Processing task with ID : 187, and type 'smush' 
+[2026-09-14 16:42:59 : INFO] - Re_Smush_It_Task - Attachment ID : 1191, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:42:59 : INFO] - File: WhatsApp-Image-2021-10-19-at-12.42.05.jpeg, Compression quality: 92 
+[2026-09-14 16:43:09 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-19-at-12.42.05-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:43:25 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/237222991_558889485427433_5189676205230968894_n-1.jpg.The file was compressed from 311.02 KB to 129.69 KB, saving 58.3 percent, using WP-Optimize 
+[2026-09-14 16:43:25 : INFO] - Completed processing task with ID : 186, and type 'smush' 
+[2026-09-14 16:43:28 : INFO] - Task with ID 187 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:43:28 : INFO] - Processing task with ID : 188, and type 'smush' 
+[2026-09-14 16:43:28 : INFO] - Re_Smush_It_Task - Attachment ID : 1196, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:43:28 : INFO] - File: WhatsApp-Image-2021-10-19-at-12.42.05-1.jpeg, Compression quality: 92 
+[2026-09-14 16:43:36 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-19-at-12.42.05-1-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:43:40 : INFO] - A total of 65 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:43:40 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2026-09-14 16:43:43 : INFO] - Task with ID 188 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:43:43 : INFO] - Processing task with ID : 189, and type 'smush' 
+[2026-09-14 16:43:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1200, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:43:43 : INFO] - File: IMG-20211105-WA0010.jpg, Compression quality: 92 
+[2026-09-14 16:43:48 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0010-updraft-pre-smush-original.jpg 
+[2026-09-14 16:43:50 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-19-at-12.42.05.jpeg.The file was compressed from 206.45 KB to 206.34 KB, saving 0.05 percent, using WP-Optimize 
+[2026-09-14 16:43:50 : INFO] - Completed processing task with ID : 187, and type 'smush' 
+[2026-09-14 16:43:53 : INFO] - Task with ID 188 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:43:56 : INFO] - Task with ID 189 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:43:56 : INFO] - Processing task with ID : 190, and type 'smush' 
+[2026-09-14 16:43:56 : INFO] - Re_Smush_It_Task - Attachment ID : 1201, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:43:56 : INFO] - File: IMG-20211105-WA0009.jpg, Compression quality: 92 
+[2026-09-14 16:44:01 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0009-updraft-pre-smush-original.jpg 
+[2026-09-14 16:44:12 : INFO] - A total of 63 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:44:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:44:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:44:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:44:12 : INFO] - Cleaning up tasks of type (smush). A total of 8 tasks will be deleted. 
+[2026-09-14 16:44:17 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0010.jpg.The file was compressed from 88.39 KB to 88.39 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:44:17 : INFO] - Completed processing task with ID : 189, and type 'smush' 
+[2026-09-14 16:44:20 : INFO] - Task with ID 190 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:44:20 : INFO] - Processing task with ID : 191, and type 'smush' 
+[2026-09-14 16:44:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1202, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:44:20 : INFO] - File: IMG-20211105-WA0008.jpg, Compression quality: 92 
+[2026-09-14 16:44:21 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-19-at-12.42.05-1.jpeg.The file was compressed from 206.45 KB to 206.34 KB, saving 0.05 percent, using WP-Optimize 
+[2026-09-14 16:44:21 : INFO] - Completed processing task with ID : 188, and type 'smush' 
+[2026-09-14 16:44:21 : INFO] - Processing task with ID : 189, and type 'smush' 
+[2026-09-14 16:44:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1200, Started on : September 14, 2026 04:24:38 
+[2026-09-14 16:44:21 : INFO] - File: IMG-20211105-WA0010.jpg, Compression quality: 92 
+[2026-09-14 16:44:23 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0010-updraft-pre-smush-original.jpg 
+[2026-09-14 16:44:25 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0008-updraft-pre-smush-original.jpg 
+[2026-09-14 16:44:33 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0009.jpg.The file was compressed from 127.03 KB to 127.03 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:44:33 : INFO] - Completed processing task with ID : 190, and type 'smush' 
+[2026-09-14 16:44:36 : INFO] - Task with ID 191 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:44:36 : INFO] - Processing task with ID : 192, and type 'smush' 
+[2026-09-14 16:44:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1203, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:44:36 : INFO] - File: IMG-20211105-WA0008-1.jpg, Compression quality: 92 
+[2026-09-14 16:44:37 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0010.jpg.The file was compressed from 88.39 KB to 88.39 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:44:37 : INFO] - Completed processing task with ID : 189, and type 'smush' 
+[2026-09-14 16:44:37 : INFO] - Processing task with ID : 190, and type 'smush' 
+[2026-09-14 16:44:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1201, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:44:37 : INFO] - File: IMG-20211105-WA0009.jpg, Compression quality: 92 
+[2026-09-14 16:44:40 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0009-updraft-pre-smush-original.jpg 
+[2026-09-14 16:44:40 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0008-1-updraft-pre-smush-original.jpg 
+[2026-09-14 16:44:43 : INFO] - A total of 62 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:44:43 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:44:43 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:44:43 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:44:43 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2026-09-14 16:44:52 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0008.jpg.The file was compressed from 113.88 KB to 113.88 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:44:52 : INFO] - Completed processing task with ID : 191, and type 'smush' 
+[2026-09-14 16:44:55 : INFO] - Task with ID 192 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:44:55 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0009.jpg.The file was compressed from 127.03 KB to 127.03 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:44:55 : INFO] - Completed processing task with ID : 190, and type 'smush' 
+[2026-09-14 16:44:55 : INFO] - Processing task with ID : 193, and type 'smush' 
+[2026-09-14 16:44:55 : INFO] - Processing task with ID : 191, and type 'smush' 
+[2026-09-14 16:44:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1204, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:44:55 : INFO] - File: IMG-20211105-WA0007.jpg, Compression quality: 92 
+[2026-09-14 16:44:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1202, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:44:55 : INFO] - File: IMG-20211105-WA0008.jpg, Compression quality: 92 
+[2026-09-14 16:44:58 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0008-updraft-pre-smush-original.jpg 
+[2026-09-14 16:45:00 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0007-updraft-pre-smush-original.jpg 
+[2026-09-14 16:45:09 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0008-1.jpg.The file was compressed from 113.88 KB to 113.88 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:45:09 : INFO] - Completed processing task with ID : 192, and type 'smush' 
+[2026-09-14 16:45:12 : INFO] - Task with ID 193 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:45:12 : INFO] - Processing task with ID : 194, and type 'smush' 
+[2026-09-14 16:45:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1206, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:45:12 : INFO] - File: IMG-20211105-WA0010-1.jpg, Compression quality: 92 
+[2026-09-14 16:45:13 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0008.jpg.The file was compressed from 113.88 KB to 113.88 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:45:13 : INFO] - Completed processing task with ID : 191, and type 'smush' 
+[2026-09-14 16:45:13 : INFO] - Processing task with ID : 192, and type 'smush' 
+[2026-09-14 16:45:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1203, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:45:13 : INFO] - File: IMG-20211105-WA0008-1.jpg, Compression quality: 92 
+[2026-09-14 16:45:15 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0008-1-updraft-pre-smush-original.jpg 
+[2026-09-14 16:45:16 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0010-1-updraft-pre-smush-original.jpg 
+[2026-09-14 16:45:28 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0007.jpg.The file was compressed from 114.42 KB to 114.42 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:45:28 : INFO] - Completed processing task with ID : 193, and type 'smush' 
+[2026-09-14 16:45:30 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0008-1.jpg.The file was compressed from 113.88 KB to 113.88 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:45:30 : INFO] - Completed processing task with ID : 192, and type 'smush' 
+[2026-09-14 16:45:30 : INFO] - Processing task with ID : 193, and type 'smush' 
+[2026-09-14 16:45:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1204, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:45:30 : INFO] - File: IMG-20211105-WA0007.jpg, Compression quality: 92 
+[2026-09-14 16:45:31 : INFO] - Task with ID 194 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:45:32 : INFO] - Processing task with ID : 195, and type 'smush' 
+[2026-09-14 16:45:32 : INFO] - Re_Smush_It_Task - Attachment ID : 1207, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:45:32 : INFO] - File: IMG-20211105-WA0009-1.jpg, Compression quality: 92 
+[2026-09-14 16:45:32 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0007-updraft-pre-smush-original.jpg 
+[2026-09-14 16:45:36 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0009-1-updraft-pre-smush-original.jpg 
+[2026-09-14 16:45:42 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0010-1.jpg.The file was compressed from 88.39 KB to 88.39 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:45:42 : INFO] - Completed processing task with ID : 194, and type 'smush' 
+[2026-09-14 16:45:44 : INFO] - A total of 59 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:45:44 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:45:44 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:45:44 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:45:44 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2026-09-14 16:45:45 : INFO] - Task with ID 195 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:45:45 : INFO] - Processing task with ID : 196, and type 'smush' 
+[2026-09-14 16:45:45 : INFO] - Re_Smush_It_Task - Attachment ID : 1208, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:45:45 : INFO] - File: IMG-20211105-WA0008-2.jpg, Compression quality: 92 
+[2026-09-14 16:45:48 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0007.jpg.The file was compressed from 114.42 KB to 114.42 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:45:48 : INFO] - Completed processing task with ID : 193, and type 'smush' 
+[2026-09-14 16:45:48 : INFO] - The task with id : 194, and type 'smush' seems to have been deleted from the database. 
+[2026-09-14 16:45:49 : INFO] - Backing up the original image - 2021/11/IMG-20211105-WA0008-2-updraft-pre-smush-original.jpg 
+[2026-09-14 16:45:51 : INFO] - Task with ID 195 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:45:54 : INFO] - Task with ID 196 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:45:54 : INFO] - Processing task with ID : 197, and type 'smush' 
+[2026-09-14 16:45:54 : INFO] - Re_Smush_It_Task - Attachment ID : 1211, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:45:54 : INFO] - File: IMG_20220116_235505_340.jpg, Compression quality: 92 
+[2026-09-14 16:46:09 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0009-1.jpg.The file was compressed from 127.03 KB to 127.03 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:46:09 : INFO] - Completed processing task with ID : 195, and type 'smush' 
+[2026-09-14 16:46:12 : INFO] - Task with ID 196 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:46:12 : INFO] - Backing up the original image - 2022/01/IMG_20220116_235505_340-updraft-pre-smush-original.jpg 
+[2026-09-14 16:46:15 : INFO] - Task with ID 197 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:46:15 : INFO] - Processing task with ID : 198, and type 'smush' 
+[2026-09-14 16:46:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1212, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:46:15 : INFO] - File: IMG_20220116_235549_555.jpg, Compression quality: 92 
+[2026-09-14 16:46:22 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2021/11/IMG-20211105-WA0008-2.jpg.The file was compressed from 113.88 KB to 113.88 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:46:22 : INFO] - Completed processing task with ID : 196, and type 'smush' 
+[2026-09-14 16:46:25 : INFO] - Task with ID 197 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:46:28 : INFO] - Task with ID 198 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:46:28 : INFO] - Processing task with ID : 199, and type 'smush' 
+[2026-09-14 16:46:28 : INFO] - Re_Smush_It_Task - Attachment ID : 1213, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:46:28 : INFO] - File: IMG_20220116_235528_507.jpg, Compression quality: 92 
+[2026-09-14 16:46:35 : INFO] - Backing up the original image - 2022/01/IMG_20220116_235549_555-updraft-pre-smush-original.jpg 
+[2026-09-14 16:46:50 : INFO] - Backing up the original image - 2022/01/IMG_20220116_235528_507-updraft-pre-smush-original.jpg 
+[2026-09-14 16:47:01 : INFO] - A total of 54 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:47:01 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:47:01 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:47:01 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:47:01 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2026-09-14 16:47:33 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/01/IMG_20220116_235505_340.jpg.The file was compressed from 427.36 KB to 399.93 KB, saving 6.42 percent, using WP-Optimize 
+[2026-09-14 16:47:33 : INFO] - Completed processing task with ID : 197, and type 'smush' 
+[2026-09-14 16:47:33 : INFO] - Processing task with ID : 198, and type 'smush' 
+[2026-09-14 16:47:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1212, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:47:33 : INFO] - File: IMG_20220116_235549_555.jpg, Compression quality: 92 
+[2026-09-14 16:47:36 : INFO] - Backing up the original image - 2022/01/IMG_20220116_235549_555-updraft-pre-smush-original.jpg 
+[2026-09-14 16:47:55 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/01/IMG_20220116_235549_555.jpg.The file was compressed from 480.80 KB to 480.80 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:47:55 : INFO] - Completed processing task with ID : 198, and type 'smush' 
+[2026-09-14 16:47:55 : INFO] - Processing task with ID : 199, and type 'smush' 
+[2026-09-14 16:47:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1213, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:47:55 : INFO] - File: IMG_20220116_235528_507.jpg, Compression quality: 92 
+[2026-09-14 16:48:01 : INFO] - A total of 54 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:48:01 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:48:01 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:48:01 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:48:01 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2026-09-14 16:48:01 : INFO] - Backing up the original image - 2022/01/IMG_20220116_235528_507-updraft-pre-smush-original.jpg 
+[2026-09-14 16:48:03 : INFO] - Successfully optimized the image - .The file was compressed to N/A using WP-Optimize 
+[2026-09-14 16:48:03 : INFO] - Completed processing task with ID : 198, and type 'smush' 
+[2026-09-14 16:48:06 : INFO] - Task with ID 199 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:48:06 : INFO] - Processing task with ID : 200, and type 'smush' 
+[2026-09-14 16:48:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1214, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:48:06 : INFO] - File: IMG_20220116_235538_820.jpg, Compression quality: 92 
+[2026-09-14 16:48:21 : INFO] - Backing up the original image - 2022/01/IMG_20220116_235538_820-updraft-pre-smush-original.jpg 
+[2026-09-14 16:49:08 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/01/IMG_20220116_235528_507.jpg.The file was compressed from 487.04 KB to 487.04 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:49:08 : INFO] - Completed processing task with ID : 199, and type 'smush' 
+[2026-09-14 16:49:08 : INFO] - Processing task with ID : 200, and type 'smush' 
+[2026-09-14 16:49:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1214, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:49:08 : INFO] - File: IMG_20220116_235538_820.jpg, Compression quality: 92 
+[2026-09-14 16:49:11 : INFO] - Backing up the original image - 2022/01/IMG_20220116_235538_820-updraft-pre-smush-original.jpg 
+[2026-09-14 16:49:28 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/01/IMG_20220116_235538_820.jpg.The file was compressed from 441.69 KB to 441.69 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:49:28 : INFO] - Completed processing task with ID : 200, and type 'smush' 
+[2026-09-14 16:49:28 : INFO] - Processing task with ID : 201, and type 'smush' 
+[2026-09-14 16:49:28 : INFO] - Re_Smush_It_Task - Attachment ID : 1224, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:49:28 : INFO] - File: IMG-20220630-WA0027.jpg, Compression quality: 92 
+[2026-09-14 16:49:33 : INFO] - Backing up the original image - 2022/07/IMG-20220630-WA0027-updraft-pre-smush-original.jpg 
+[2026-09-14 16:49:38 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/01/IMG_20220116_235538_820.jpg.The file was compressed from 441.69 KB to 441.69 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:49:38 : INFO] - Completed processing task with ID : 200, and type 'smush' 
+[2026-09-14 16:49:41 : INFO] - Task with ID 201 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:49:41 : INFO] - Processing task with ID : 202, and type 'smush' 
+[2026-09-14 16:49:41 : INFO] - Re_Smush_It_Task - Attachment ID : 1225, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:49:41 : INFO] - File: IMG-20220630-WA0025.jpg, Compression quality: 92 
+[2026-09-14 16:49:47 : INFO] - Backing up the original image - 2022/07/IMG-20220630-WA0025-updraft-pre-smush-original.jpg 
+[2026-09-14 16:50:04 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/IMG-20220630-WA0027.jpg.The file was compressed from 149.38 KB to 149.26 KB, saving 0.08 percent, using WP-Optimize 
+[2026-09-14 16:50:04 : INFO] - Completed processing task with ID : 201, and type 'smush' 
+[2026-09-14 16:50:07 : INFO] - Task with ID 202 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:50:07 : INFO] - Processing task with ID : 203, and type 'smush' 
+[2026-09-14 16:50:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1226, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:50:07 : INFO] - File: IMG-20220630-WA0026.jpg, Compression quality: 92 
+[2026-09-14 16:50:13 : INFO] - Backing up the original image - 2022/07/IMG-20220630-WA0026-updraft-pre-smush-original.jpg 
+[2026-09-14 16:50:19 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/IMG-20220630-WA0025.jpg.The file was compressed from 157.79 KB to 157.70 KB, saving 0.06 percent, using WP-Optimize 
+[2026-09-14 16:50:19 : INFO] - Completed processing task with ID : 202, and type 'smush' 
+[2026-09-14 16:50:22 : INFO] - Task with ID 203 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:50:22 : INFO] - Processing task with ID : 204, and type 'smush' 
+[2026-09-14 16:50:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1227, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:50:22 : INFO] - File: IMG-20220630-WA0028.jpg, Compression quality: 92 
+[2026-09-14 16:50:29 : INFO] - Backing up the original image - 2022/07/IMG-20220630-WA0028-updraft-pre-smush-original.jpg 
+[2026-09-14 16:50:46 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/IMG-20220630-WA0026.jpg.The file was compressed from 156.96 KB to 156.51 KB, saving 0.29 percent, using WP-Optimize 
+[2026-09-14 16:50:46 : INFO] - Completed processing task with ID : 203, and type 'smush' 
+[2026-09-14 16:50:49 : INFO] - Task with ID 204 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:50:49 : INFO] - Processing task with ID : 205, and type 'smush' 
+[2026-09-14 16:50:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1232, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:50:49 : INFO] - File: IMG-20220630-WA0025-1.jpg, Compression quality: 92 
+[2026-09-14 16:50:55 : INFO] - Backing up the original image - 2022/07/IMG-20220630-WA0025-1-updraft-pre-smush-original.jpg 
+[2026-09-14 16:51:04 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/IMG-20220630-WA0028.jpg.The file was compressed from 256.70 KB to 256.13 KB, saving 0.22 percent, using WP-Optimize 
+[2026-09-14 16:51:04 : INFO] - Completed processing task with ID : 204, and type 'smush' 
+[2026-09-14 16:51:07 : INFO] - Task with ID 205 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:51:07 : INFO] - Processing task with ID : 206, and type 'smush' 
+[2026-09-14 16:51:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1233, Started on : September 14, 2026 04:24:39 
+[2026-09-14 16:51:07 : INFO] - File: IMG-20220630-WA0027-1.jpg, Compression quality: 92 
+[2026-09-14 16:51:13 : INFO] - Backing up the original image - 2022/07/IMG-20220630-WA0027-1-updraft-pre-smush-original.jpg 
+[2026-09-14 16:51:27 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/IMG-20220630-WA0025-1.jpg.The file was compressed from 157.79 KB to 157.70 KB, saving 0.06 percent, using WP-Optimize 
+[2026-09-14 16:51:27 : INFO] - Completed processing task with ID : 205, and type 'smush' 
+[2026-09-14 16:51:30 : INFO] - Task with ID 206 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:51:30 : INFO] - Processing task with ID : 207, and type 'smush' 
+[2026-09-14 16:51:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1241, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:51:30 : INFO] - File: IMG-20220630-WA0027-2.jpg, Compression quality: 92 
+[2026-09-14 16:51:35 : INFO] - Backing up the original image - 2022/07/IMG-20220630-WA0027-2-updraft-pre-smush-original.jpg 
+[2026-09-14 16:51:44 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/IMG-20220630-WA0027-1.jpg.The file was compressed from 149.38 KB to 149.26 KB, saving 0.08 percent, using WP-Optimize 
+[2026-09-14 16:51:44 : INFO] - Completed processing task with ID : 206, and type 'smush' 
+[2026-09-14 16:51:47 : INFO] - Task with ID 207 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:51:47 : INFO] - Processing task with ID : 208, and type 'smush' 
+[2026-09-14 16:51:47 : INFO] - Re_Smush_It_Task - Attachment ID : 1242, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:51:47 : INFO] - File: IMG-20220630-WA0027-3.jpg, Compression quality: 92 
+[2026-09-14 16:51:53 : INFO] - Backing up the original image - 2022/07/IMG-20220630-WA0027-3-updraft-pre-smush-original.jpg 
+[2026-09-14 16:52:09 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/IMG-20220630-WA0027-2.jpg.The file was compressed from 149.38 KB to 149.26 KB, saving 0.08 percent, using WP-Optimize 
+[2026-09-14 16:52:09 : INFO] - Completed processing task with ID : 207, and type 'smush' 
+[2026-09-14 16:52:12 : INFO] - Task with ID 208 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:52:12 : INFO] - Processing task with ID : 209, and type 'smush' 
+[2026-09-14 16:52:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1247, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:52:12 : INFO] - File: IMG-20220702-WA0007.jpg, Compression quality: 92 
+[2026-09-14 16:52:18 : INFO] - Backing up the original image - 2022/07/IMG-20220702-WA0007-updraft-pre-smush-original.jpg 
+[2026-09-14 16:52:26 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/IMG-20220630-WA0027-3.jpg.The file was compressed from 149.38 KB to 149.26 KB, saving 0.08 percent, using WP-Optimize 
+[2026-09-14 16:52:26 : INFO] - Completed processing task with ID : 208, and type 'smush' 
+[2026-09-14 16:52:29 : INFO] - Task with ID 209 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:52:29 : INFO] - Processing task with ID : 210, and type 'smush' 
+[2026-09-14 16:52:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1252, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:52:29 : INFO] - File: Screenshot_20220703-235745_WhatsAppBusiness.jpg, Compression quality: 92 
+[2026-09-14 16:52:32 : INFO] - Backing up the original image - 2022/07/Screenshot_20220703-235745_WhatsAppBusiness-updraft-pre-smush-original.jpg 
+[2026-09-14 16:52:45 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/Screenshot_20220703-235745_WhatsAppBusiness.jpg.The file was compressed from 166.04 KB to 65.80 KB, saving 60.37 percent, using WP-Optimize 
+[2026-09-14 16:52:45 : INFO] - Completed processing task with ID : 210, and type 'smush' 
+[2026-09-14 16:52:45 : INFO] - Processing task with ID : 211, and type 'smush' 
+[2026-09-14 16:52:45 : INFO] - Re_Smush_It_Task - Attachment ID : 1255, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:52:45 : INFO] - File: IMG-20220703-WA0016.jpg, Compression quality: 92 
+[2026-09-14 16:52:50 : INFO] - A total of 42 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:52:50 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2026-09-14 16:52:51 : INFO] - Backing up the original image - 2022/07/IMG-20220703-WA0016-updraft-pre-smush-original.jpg 
+[2026-09-14 16:52:53 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/IMG-20220702-WA0007.jpg.The file was compressed from 195.05 KB to 195.05 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:52:53 : INFO] - Completed processing task with ID : 209, and type 'smush' 
+[2026-09-14 16:52:53 : INFO] - Processing task with ID : 210, and type 'smush' 
+[2026-09-14 16:52:53 : INFO] - Re_Smush_It_Task - Attachment ID : 1252, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:52:53 : INFO] - File: Screenshot_20220703-235745_WhatsAppBusiness.jpg, Compression quality: 92 
+[2026-09-14 16:52:53 : INFO] - Task with ID 211 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:52:53 : INFO] - Processing task with ID : 212, and type 'smush' 
+[2026-09-14 16:52:53 : INFO] - Re_Smush_It_Task - Attachment ID : 1259, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:52:53 : INFO] - File: WhatsApp-Image-2022-08-10-at-11.17.12.jpeg, Compression quality: 92 
+[2026-09-14 16:52:55 : INFO] - Backing up the original image - 2022/07/Screenshot_20220703-235745_WhatsAppBusiness-updraft-pre-smush-original.jpg 
+[2026-09-14 16:53:00 : INFO] - Backing up the original image - 2022/08/WhatsApp-Image-2022-08-10-at-11.17.12-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:53:04 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/Screenshot_20220703-235745_WhatsAppBusiness.jpg.The file was compressed from 65.80 KB to 65.79 KB, saving 0.03 percent, using WP-Optimize 
+[2026-09-14 16:53:04 : INFO] - Completed processing task with ID : 210, and type 'smush' 
+[2026-09-14 16:53:07 : INFO] - Task with ID 211 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:53:10 : INFO] - Task with ID 212 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:53:10 : INFO] - Processing task with ID : 213, and type 'smush' 
+[2026-09-14 16:53:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1260, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:53:10 : INFO] - File: WhatsApp-Image-2022-08-10-at-11.17.14-1.jpeg, Compression quality: 92 
+[2026-09-14 16:53:17 : INFO] - Backing up the original image - 2022/08/WhatsApp-Image-2022-08-10-at-11.17.14-1-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:53:24 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/07/IMG-20220703-WA0016.jpg.The file was compressed from 123.99 KB to 123.87 KB, saving 0.1 percent, using WP-Optimize 
+[2026-09-14 16:53:24 : INFO] - Completed processing task with ID : 211, and type 'smush' 
+[2026-09-14 16:53:27 : INFO] - Task with ID 212 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:53:30 : INFO] - Task with ID 213 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:53:30 : INFO] - Processing task with ID : 214, and type 'smush' 
+[2026-09-14 16:53:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1261, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:53:30 : INFO] - File: WhatsApp-Image-2022-08-10-at-11.17.13.jpeg, Compression quality: 92 
+[2026-09-14 16:53:31 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-10-at-11.17.12.jpeg.The file was compressed from 222.22 KB to 215.11 KB, saving 3.2 percent, using WP-Optimize 
+[2026-09-14 16:53:31 : INFO] - Completed processing task with ID : 212, and type 'smush' 
+[2026-09-14 16:53:34 : INFO] - Task with ID 213 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:53:35 : INFO] - Backing up the original image - 2022/08/WhatsApp-Image-2022-08-10-at-11.17.13-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:53:37 : INFO] - Task with ID 214 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:53:37 : INFO] - Processing task with ID : 215, and type 'smush' 
+[2026-09-14 16:53:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1262, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:53:37 : INFO] - File: WhatsApp-Image-2022-08-10-at-11.17.14.jpeg, Compression quality: 92 
+[2026-09-14 16:53:45 : INFO] - Backing up the original image - 2022/08/WhatsApp-Image-2022-08-10-at-11.17.14-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:53:53 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-10-at-11.17.14-1.jpeg.The file was compressed from 226.14 KB to 218.70 KB, saving 3.29 percent, using WP-Optimize 
+[2026-09-14 16:53:53 : INFO] - Completed processing task with ID : 213, and type 'smush' 
+[2026-09-14 16:53:56 : INFO] - Task with ID 214 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:54:00 : INFO] - Task with ID 215 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:54:00 : INFO] - Processing task with ID : 216, and type 'smush' 
+[2026-09-14 16:54:00 : INFO] - Re_Smush_It_Task - Attachment ID : 1266, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:54:00 : INFO] - File: WhatsApp-Image-2022-08-10-at-14.14.21.jpeg, Compression quality: 92 
+[2026-09-14 16:54:07 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-10-at-11.17.13.jpeg.The file was compressed from 173.21 KB to 166.38 KB, saving 3.94 percent, using WP-Optimize 
+[2026-09-14 16:54:07 : INFO] - Completed processing task with ID : 214, and type 'smush' 
+[2026-09-14 16:54:08 : INFO] - Backing up the original image - 2022/08/WhatsApp-Image-2022-08-10-at-14.14.21-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:54:10 : INFO] - Task with ID 215 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:54:13 : INFO] - Task with ID 216 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:54:13 : INFO] - Processing task with ID : 217, and type 'smush' 
+[2026-09-14 16:54:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1269, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:54:13 : INFO] - File: WhatsApp-Image-2022-08-10-at-14.14.21-1.jpeg, Compression quality: 92 
+[2026-09-14 16:54:15 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-10-at-11.17.14.jpeg.The file was compressed from 203.79 KB to 196.13 KB, saving 3.75 percent, using WP-Optimize 
+[2026-09-14 16:54:15 : INFO] - Completed processing task with ID : 215, and type 'smush' 
+[2026-09-14 16:54:18 : INFO] - Task with ID 216 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:54:19 : INFO] - Backing up the original image - 2022/08/WhatsApp-Image-2022-08-10-at-14.14.21-1-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:54:21 : INFO] - Task with ID 217 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:54:21 : INFO] - Processing task with ID : 218, and type 'smush' 
+[2026-09-14 16:54:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1304, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:54:21 : INFO] - File: WhatsApp-Image-2022-08-17-at-18.35.41.jpeg, Compression quality: 92 
+[2026-09-14 16:54:30 : INFO] - Backing up the original image - 2022/08/WhatsApp-Image-2022-08-17-at-18.35.41-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:54:54 : INFO] - A total of 35 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:54:54 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:54:54 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:54:54 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:54:54 : INFO] - Cleaning up tasks of type (smush). A total of 17 tasks will be deleted. 
+[2026-09-14 16:54:54 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-10-at-14.14.21-1.jpeg.The file was compressed from 149.38 KB to 149.26 KB, saving 0.08 percent, using WP-Optimize 
+[2026-09-14 16:54:54 : INFO] - Completed processing task with ID : 217, and type 'smush' 
+[2026-09-14 16:54:57 : INFO] - Task with ID 218 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:54:57 : INFO] - Processing task with ID : 219, and type 'smush' 
+[2026-09-14 16:54:57 : INFO] - Re_Smush_It_Task - Attachment ID : 1305, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:54:57 : INFO] - File: WhatsApp-Image-2022-08-27-at-11.58.57.jpeg, Compression quality: 92 
+[2026-09-14 16:55:04 : INFO] - Backing up the original image - 2022/08/WhatsApp-Image-2022-08-27-at-11.58.57-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:55:09 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-17-at-18.35.41.jpeg.The file was compressed from 242.04 KB to 241.22 KB, saving 0.34 percent, using WP-Optimize 
+[2026-09-14 16:55:09 : INFO] - Completed processing task with ID : 218, and type 'smush' 
+[2026-09-14 16:55:12 : INFO] - Task with ID 219 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:55:12 : INFO] - Processing task with ID : 220, and type 'smush' 
+[2026-09-14 16:55:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1306, Started on : September 14, 2026 04:24:40 
+[2026-09-14 16:55:12 : INFO] - File: WhatsApp-Image-2022-08-27-at-11.59.02.jpeg, Compression quality: 92 
+[2026-09-14 16:55:18 : INFO] - Backing up the original image - 2022/08/WhatsApp-Image-2022-08-27-at-11.59.02-updraft-pre-smush-original.jpeg 
+[2026-09-14 16:55:40 : INFO] - A total of 33 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 16:55:40 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 16:55:40 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 16:55:40 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 16:55:40 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2026-09-14 16:55:41 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-27-at-11.58.57.jpeg.The file was compressed from 165.53 KB to 165.53 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:55:41 : INFO] - Completed processing task with ID : 219, and type 'smush' 
+[2026-09-14 16:55:44 : INFO] - Task with ID 220 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:55:44 : INFO] - Processing task with ID : 221, and type 'smush' 
+[2026-09-14 16:55:44 : INFO] - Re_Smush_It_Task - Attachment ID : 1356, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:55:44 : INFO] - File: photo_2025-07-12_10-56-01.jpg, Compression quality: 92 
+[2026-09-14 16:55:50 : INFO] - Backing up the original image - 2025/07/photo_2025-07-12_10-56-01-updraft-pre-smush-original.jpg 
+[2026-09-14 16:55:52 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-27-at-11.59.02.jpeg.The file was compressed from 182.21 KB to 181.82 KB, saving 0.21 percent, using WP-Optimize 
+[2026-09-14 16:55:52 : INFO] - Completed processing task with ID : 220, and type 'smush' 
+[2026-09-14 16:55:55 : INFO] - Task with ID 221 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:55:55 : INFO] - Processing task with ID : 222, and type 'smush' 
+[2026-09-14 16:55:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1359, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:55:55 : INFO] - File: IMG-20250803-WA0008-scaled.jpg, Compression quality: 92 
+[2026-09-14 16:56:11 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0008-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 16:56:13 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/IMG-20250803-WA0008-scaled.jpg.The file was compressed from 479.58 KB to 468.37 KB, saving 2.34 percent, using WP-Optimize 
+[2026-09-14 16:56:13 : INFO] - Completed processing task with ID : 222, and type 'smush' 
+[2026-09-14 16:56:13 : INFO] - Processing task with ID : 223, and type 'smush' 
+[2026-09-14 16:56:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1360, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:56:13 : INFO] - File: IMG-20250803-WA0009-scaled.jpg, Compression quality: 92 
+[2026-09-14 16:56:27 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0009-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 16:56:29 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/IMG-20250803-WA0009-scaled.jpg.The file was compressed from 376.33 KB to 368.51 KB, saving 2.08 percent, using WP-Optimize 
+[2026-09-14 16:56:29 : INFO] - Completed processing task with ID : 223, and type 'smush' 
+[2026-09-14 16:56:29 : INFO] - Processing task with ID : 224, and type 'smush' 
+[2026-09-14 16:56:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1361, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:56:29 : INFO] - File: IMG-20250803-WA0010-scaled.jpg, Compression quality: 92 
+[2026-09-14 16:56:29 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/07/photo_2025-07-12_10-56-01.jpg.The file was compressed from 206.95 KB to 206.95 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:56:29 : INFO] - Completed processing task with ID : 221, and type 'smush' 
+[2026-09-14 16:56:29 : INFO] - Processing task with ID : 222, and type 'smush' 
+[2026-09-14 16:56:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1359, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:56:29 : INFO] - File: IMG-20250803-WA0008-scaled.jpg, Compression quality: 92 
+[2026-09-14 16:56:33 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0008-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 16:56:34 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/IMG-20250803-WA0008-scaled.jpg.The file was compressed from 468.37 KB to 468.37 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:56:34 : INFO] - Completed processing task with ID : 222, and type 'smush' 
+[2026-09-14 16:56:34 : INFO] - Processing task with ID : 223, and type 'smush' 
+[2026-09-14 16:56:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1360, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:56:34 : INFO] - File: IMG-20250803-WA0009-scaled.jpg, Compression quality: 92 
+[2026-09-14 16:56:37 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0009-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 16:56:39 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/IMG-20250803-WA0009-scaled.jpg.The file was compressed from 368.51 KB to 368.51 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:56:39 : INFO] - Completed processing task with ID : 223, and type 'smush' 
+[2026-09-14 16:56:42 : INFO] - Task with ID 224 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:56:42 : INFO] - Processing task with ID : 225, and type 'smush' 
+[2026-09-14 16:56:42 : INFO] - Re_Smush_It_Task - Attachment ID : 1362, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:56:42 : INFO] - File: IMG-20250803-WA0007-scaled.jpg, Compression quality: 92 
+[2026-09-14 16:56:43 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0010-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 16:56:45 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/IMG-20250803-WA0010-scaled.jpg.The file was compressed from 545.96 KB to 531.19 KB, saving 2.71 percent, using WP-Optimize 
+[2026-09-14 16:56:45 : INFO] - Completed processing task with ID : 224, and type 'smush' 
+[2026-09-14 16:56:48 : INFO] - Task with ID 225 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:56:48 : INFO] - Processing task with ID : 226, and type 'smush' 
+[2026-09-14 16:56:48 : INFO] - Re_Smush_It_Task - Attachment ID : 1363, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:56:48 : INFO] - File: IMG-20250803-WA0005.jpg, Compression quality: 92 
+[2026-09-14 16:56:54 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0005-updraft-pre-smush-original.jpg 
+[2026-09-14 16:56:56 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0007-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 16:56:58 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/IMG-20250803-WA0007-scaled.jpg.The file was compressed from 476.36 KB to 462.02 KB, saving 3.01 percent, using WP-Optimize 
+[2026-09-14 16:56:58 : INFO] - Completed processing task with ID : 225, and type 'smush' 
+[2026-09-14 16:57:01 : INFO] - Task with ID 226 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:57:01 : INFO] - Processing task with ID : 227, and type 'smush' 
+[2026-09-14 16:57:01 : INFO] - Re_Smush_It_Task - Attachment ID : 1364, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:57:01 : INFO] - File: IMG-20250803-WA0006-scaled.jpg, Compression quality: 92 
+[2026-09-14 16:57:16 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0006-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 16:57:18 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/IMG-20250803-WA0006-scaled.jpg.The file was compressed from 405.85 KB to 399.85 KB, saving 1.48 percent, using WP-Optimize 
+[2026-09-14 16:57:18 : INFO] - Completed processing task with ID : 227, and type 'smush' 
+[2026-09-14 16:57:18 : INFO] - Processing task with ID : 228, and type 'smush' 
+[2026-09-14 16:57:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1365, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:57:18 : INFO] - File: IMG-20250803-WA0003.jpg, Compression quality: 92 
+[2026-09-14 16:57:23 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0003-updraft-pre-smush-original.jpg 
+[2026-09-14 16:57:27 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/IMG-20250803-WA0005.jpg.The file was compressed from 109.39 KB to 109.27 KB, saving 0.11 percent, using WP-Optimize 
+[2026-09-14 16:57:27 : INFO] - Completed processing task with ID : 226, and type 'smush' 
+[2026-09-14 16:57:27 : INFO] - Processing task with ID : 227, and type 'smush' 
+[2026-09-14 16:57:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1364, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:57:27 : INFO] - File: IMG-20250803-WA0006-scaled.jpg, Compression quality: 92 
+[2026-09-14 16:57:30 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0006-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 16:57:31 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/IMG-20250803-WA0006-scaled.jpg.The file was compressed from 399.85 KB to 399.85 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 16:57:31 : INFO] - Completed processing task with ID : 227, and type 'smush' 
+[2026-09-14 16:57:34 : INFO] - Task with ID 228 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:57:34 : INFO] - Processing task with ID : 229, and type 'smush' 
+[2026-09-14 16:57:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1366, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:57:34 : INFO] - File: IMG-20250803-WA0004.jpg, Compression quality: 92 
+[2026-09-14 16:57:39 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0004-updraft-pre-smush-original.jpg 
+[2026-09-14 16:57:54 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/IMG-20250803-WA0003.jpg.The file was compressed from 93.11 KB to 92.59 KB, saving 0.56 percent, using WP-Optimize 
+[2026-09-14 16:57:54 : INFO] - Completed processing task with ID : 228, and type 'smush' 
+[2026-09-14 16:57:57 : INFO] - Task with ID 229 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:57:57 : INFO] - Processing task with ID : 230, and type 'smush' 
+[2026-09-14 16:57:57 : INFO] - Re_Smush_It_Task - Attachment ID : 1367, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:57:57 : INFO] - File: IMG-20250803-WA0002.jpg, Compression quality: 92 
+[2026-09-14 16:58:04 : INFO] - Backing up the original image - 2025/08/IMG-20250803-WA0002-updraft-pre-smush-original.jpg 
+[2026-09-14 16:58:13 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/IMG-20250803-WA0004.jpg.The file was compressed from 108.17 KB to 108.05 KB, saving 0.1 percent, using WP-Optimize 
+[2026-09-14 16:58:13 : INFO] - Completed processing task with ID : 229, and type 'smush' 
+[2026-09-14 16:58:16 : INFO] - Task with ID 230 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 16:58:16 : INFO] - Processing task with ID : 231, and type 'smush' 
+[2026-09-14 16:58:16 : INFO] - Re_Smush_It_Task - Attachment ID : 1372, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:58:16 : INFO] - File: WhatsApp-Image-2025-08-03-at-06.34.34_38a38cc4-scaled.jpg, Compression quality: 92 
+[2026-09-14 16:58:30 : INFO] - Backing up the original image - 2025/08/WhatsApp-Image-2025-08-03-at-06.34.34_38a38cc4-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 16:58:31 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-03-at-06.34.34_38a38cc4-scaled.jpg.The file was compressed from 519.70 KB to 510.83 KB, saving 1.71 percent, using WP-Optimize 
+[2026-09-14 16:58:31 : INFO] - Completed processing task with ID : 231, and type 'smush' 
+[2026-09-14 16:58:31 : INFO] - Processing task with ID : 232, and type 'smush' 
+[2026-09-14 16:58:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1373, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:58:31 : INFO] - File: WhatsApp-Image-2025-08-03-at-06.34.34_38a38cc4-1-scaled.jpg, Compression quality: 92 
+[2026-09-14 16:58:45 : INFO] - Backing up the original image - 2025/08/WhatsApp-Image-2025-08-03-at-06.34.34_38a38cc4-1-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 16:58:46 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-03-at-06.34.34_38a38cc4-1-scaled.jpg.The file was compressed from 519.70 KB to 510.83 KB, saving 1.71 percent, using WP-Optimize 
+[2026-09-14 16:58:46 : INFO] - Completed processing task with ID : 232, and type 'smush' 
+[2026-09-14 16:58:46 : INFO] - Processing task with ID : 233, and type 'smush' 
+[2026-09-14 16:58:46 : INFO] - Re_Smush_It_Task - Attachment ID : 1379, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:58:46 : INFO] - File: WhatsApp-Image-2025-08-01-at-19.25.36_69a1c6a5-scaled.jpg, Compression quality: 92 
+[2026-09-14 16:58:59 : INFO] - Backing up the original image - 2025/08/WhatsApp-Image-2025-08-01-at-19.25.36_69a1c6a5-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 16:59:07 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-01-at-19.25.36_69a1c6a5-scaled.jpg.The file was compressed from 566.27 KB to 552.39 KB, saving 2.45 percent, using WP-Optimize 
+[2026-09-14 16:59:07 : INFO] - Completed processing task with ID : 233, and type 'smush' 
+[2026-09-14 16:59:07 : INFO] - Processing task with ID : 234, and type 'smush' 
+[2026-09-14 16:59:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1383, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:59:07 : INFO] - File: WhatsApp-Image-2025-08-05-at-15.53.03_8ffc43a9.jpg, Compression quality: 92 
+[2026-09-14 16:59:12 : INFO] - Backing up the original image - 2025/08/WhatsApp-Image-2025-08-05-at-15.53.03_8ffc43a9-updraft-pre-smush-original.jpg 
+[2026-09-14 16:59:46 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-05-at-15.53.03_8ffc43a9.jpg.The file was compressed from 325.52 KB to 300.92 KB, saving 7.56 percent, using WP-Optimize 
+[2026-09-14 16:59:46 : INFO] - Completed processing task with ID : 234, and type 'smush' 
+[2026-09-14 16:59:46 : INFO] - Processing task with ID : 235, and type 'smush' 
+[2026-09-14 16:59:46 : INFO] - Re_Smush_It_Task - Attachment ID : 1411, Started on : September 14, 2026 04:24:41 
+[2026-09-14 16:59:46 : INFO] - File: WhatsApp-Image-2025-08-31-at-09.06.58_a164b531.jpg, Compression quality: 92 
+[2026-09-14 16:59:51 : INFO] - Backing up the original image - 2025/08/WhatsApp-Image-2025-08-31-at-09.06.58_a164b531-updraft-pre-smush-original.jpg 
+[2026-09-14 17:00:14 : INFO] - A total of 18 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 17:00:14 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2026-09-14 17:00:17 : INFO] - Task with ID 235 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:00:17 : INFO] - Processing task with ID : 236, and type 'smush' 
+[2026-09-14 17:00:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1412, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:00:17 : INFO] - File: WhatsApp-Image-2025-08-31-at-09.06.58_0644b05d.jpg, Compression quality: 92 
+[2026-09-14 17:00:23 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-31-at-09.06.58_a164b531.jpg.The file was compressed from 107.56 KB to 107.56 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 17:00:23 : INFO] - Completed processing task with ID : 235, and type 'smush' 
+[2026-09-14 17:00:23 : INFO] - Backing up the original image - 2025/08/WhatsApp-Image-2025-08-31-at-09.06.58_0644b05d-updraft-pre-smush-original.jpg 
+[2026-09-14 17:00:26 : INFO] - Task with ID 236 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:00:26 : INFO] - Processing task with ID : 237, and type 'smush' 
+[2026-09-14 17:00:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1415, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:00:26 : INFO] - File: WhatsApp-Image-2025-08-29-at-17.19.27_426af26c.jpg, Compression quality: 92 
+[2026-09-14 17:00:31 : INFO] - Backing up the original image - 2025/08/WhatsApp-Image-2025-08-29-at-17.19.27_426af26c-updraft-pre-smush-original.jpg 
+[2026-09-14 17:01:02 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-31-at-09.06.58_0644b05d.jpg.The file was compressed from 194.13 KB to 194.13 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 17:01:02 : INFO] - Completed processing task with ID : 236, and type 'smush' 
+[2026-09-14 17:01:05 : INFO] - Task with ID 237 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:01:05 : INFO] - Processing task with ID : 238, and type 'smush' 
+[2026-09-14 17:01:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1440, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:01:05 : INFO] - File: WhatsApp-Image-2025-09-23-at-16.31.03_52c0e187.jpg, Compression quality: 92 
+[2026-09-14 17:01:08 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-29-at-17.19.27_426af26c.jpg.The file was compressed from 133.94 KB to 132.98 KB, saving 0.71 percent, using WP-Optimize 
+[2026-09-14 17:01:08 : INFO] - Completed processing task with ID : 237, and type 'smush' 
+[2026-09-14 17:01:11 : INFO] - Task with ID 238 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:01:11 : INFO] - Processing task with ID : 239, and type 'smush' 
+[2026-09-14 17:01:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1443, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:01:11 : INFO] - File: WhatsApp-Image-2025-09-30-at-20.42.41_5aac9256.jpg, Compression quality: 92 
+[2026-09-14 17:01:12 : INFO] - Backing up the original image - 2025/09/WhatsApp-Image-2025-09-23-at-16.31.03_52c0e187-updraft-pre-smush-original.jpg 
+[2026-09-14 17:01:14 : INFO] - A total of 14 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 17:01:14 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 17:01:14 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 17:01:14 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 17:01:14 : INFO] - Cleaning up tasks of type (smush). A total of 18 tasks will be deleted. 
+[2026-09-14 17:01:16 : INFO] - Backing up the original image - 2025/09/WhatsApp-Image-2025-09-30-at-20.42.41_5aac9256-updraft-pre-smush-original.jpg 
+[2026-09-14 17:01:43 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-30-at-20.42.41_5aac9256.jpg.The file was compressed from 155.11 KB to 155.11 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 17:01:43 : INFO] - Completed processing task with ID : 239, and type 'smush' 
+[2026-09-14 17:01:43 : INFO] - Processing task with ID : 240, and type 'smush' 
+[2026-09-14 17:01:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1447, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:01:43 : INFO] - File: WhatsApp-Image-2025-10-19-at-23.00.39_23832d2a.jpg, Compression quality: 92 
+[2026-09-14 17:01:47 : INFO] - Backing up the original image - 2025/10/WhatsApp-Image-2025-10-19-at-23.00.39_23832d2a-updraft-pre-smush-original.jpg 
+[2026-09-14 17:01:49 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-23-at-16.31.03_52c0e187.jpg.The file was compressed from 379.94 KB to 350.96 KB, saving 7.63 percent, using WP-Optimize 
+[2026-09-14 17:01:49 : INFO] - Completed processing task with ID : 238, and type 'smush' 
+[2026-09-14 17:01:49 : INFO] - Processing task with ID : 239, and type 'smush' 
+[2026-09-14 17:01:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1443, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:01:49 : INFO] - File: WhatsApp-Image-2025-09-30-at-20.42.41_5aac9256.jpg, Compression quality: 92 
+[2026-09-14 17:01:51 : INFO] - Backing up the original image - 2025/09/WhatsApp-Image-2025-09-30-at-20.42.41_5aac9256-updraft-pre-smush-original.jpg 
+[2026-09-14 17:02:06 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-30-at-20.42.41_5aac9256.jpg.The file was compressed from 155.11 KB to 155.11 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 17:02:06 : INFO] - Completed processing task with ID : 239, and type 'smush' 
+[2026-09-14 17:02:09 : INFO] - Task with ID 240 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:02:09 : INFO] - Processing task with ID : 241, and type 'smush' 
+[2026-09-14 17:02:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1457, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:02:09 : INFO] - File: upacara.jpg, Compression quality: 92 
+[2026-09-14 17:02:15 : INFO] - Backing up the original image - 2025/11/upacara-updraft-pre-smush-original.jpg 
+[2026-09-14 17:02:25 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-19-at-23.00.39_23832d2a.jpg.The file was compressed from 133.56 KB to 133.56 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 17:02:25 : INFO] - Completed processing task with ID : 240, and type 'smush' 
+[2026-09-14 17:02:28 : INFO] - Task with ID 241 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:02:28 : INFO] - Processing task with ID : 242, and type 'smush' 
+[2026-09-14 17:02:28 : INFO] - Re_Smush_It_Task - Attachment ID : 1458, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:02:28 : INFO] - File: upacara-1-e1762434898939.jpg, Compression quality: 92 
+[2026-09-14 17:02:33 : INFO] - Backing up the original image - 2025/11/upacara-1-e1762434898939-updraft-pre-smush-original.jpg 
+[2026-09-14 17:02:41 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/11/upacara.jpg.The file was compressed from 172.25 KB to 172.25 KB, saving 0 percent, using WP-Optimize 
+[2026-09-14 17:02:41 : INFO] - Completed processing task with ID : 241, and type 'smush' 
+[2026-09-14 17:02:44 : INFO] - Task with ID 242 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:02:44 : INFO] - Processing task with ID : 243, and type 'smush' 
+[2026-09-14 17:02:44 : INFO] - Re_Smush_It_Task - Attachment ID : 1462, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:02:44 : INFO] - File: isa-pondok-roja.jpg, Compression quality: 92 
+[2026-09-14 17:02:50 : INFO] - Backing up the original image - 2025/11/isa-pondok-roja-updraft-pre-smush-original.jpg 
+[2026-09-14 17:03:12 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/11/upacara-1-e1762434898939.jpg.The file was compressed from 154.97 KB to 152.79 KB, saving 1.41 percent, using WP-Optimize 
+[2026-09-14 17:03:12 : INFO] - Completed processing task with ID : 242, and type 'smush' 
+[2026-09-14 17:03:15 : INFO] - Task with ID 243 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:03:15 : INFO] - Processing task with ID : 244, and type 'smush' 
+[2026-09-14 17:03:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1463, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:03:15 : INFO] - File: isa-pondok-roja-1.jpg, Compression quality: 92 
+[2026-09-14 17:03:22 : INFO] - Backing up the original image - 2025/11/isa-pondok-roja-1-updraft-pre-smush-original.jpg 
+[2026-09-14 17:03:28 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/11/isa-pondok-roja.jpg.The file was compressed from 321.59 KB to 300.54 KB, saving 6.55 percent, using WP-Optimize 
+[2026-09-14 17:03:28 : INFO] - Completed processing task with ID : 243, and type 'smush' 
+[2026-09-14 17:03:31 : INFO] - Task with ID 244 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:03:31 : INFO] - Processing task with ID : 245, and type 'smush' 
+[2026-09-14 17:03:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1466, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:03:31 : INFO] - File: ts.jpg, Compression quality: 92 
+[2026-09-14 17:03:36 : INFO] - Backing up the original image - 2025/11/ts-updraft-pre-smush-original.jpg 
+[2026-09-14 17:04:00 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/11/isa-pondok-roja-1.jpg.The file was compressed from 321.59 KB to 300.54 KB, saving 6.55 percent, using WP-Optimize 
+[2026-09-14 17:04:00 : INFO] - Completed processing task with ID : 244, and type 'smush' 
+[2026-09-14 17:04:03 : INFO] - Task with ID 245 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:04:03 : INFO] - Processing task with ID : 246, and type 'smush' 
+[2026-09-14 17:04:03 : INFO] - Re_Smush_It_Task - Attachment ID : 1470, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:04:03 : INFO] - File: WhatsApp-Image-2025-12-01-at-09.40.37_85e201e8.jpg, Compression quality: 92 
+[2026-09-14 17:04:06 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/11/ts.jpg.The file was compressed from 96.85 KB to 96.37 KB, saving 0.49 percent, using WP-Optimize 
+[2026-09-14 17:04:06 : INFO] - Completed processing task with ID : 245, and type 'smush' 
+[2026-09-14 17:04:07 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 17:04:07 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 17:04:07 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 17:04:07 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 17:04:07 : INFO] - Cleaning up tasks of type (smush). A total of 8 tasks will be deleted. 
+[2026-09-14 17:04:08 : INFO] - Backing up the original image - 2025/12/WhatsApp-Image-2025-12-01-at-09.40.37_85e201e8-updraft-pre-smush-original.jpg 
+[2026-09-14 17:04:09 : INFO] - Task with ID 246 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:04:09 : INFO] - Processing task with ID : 247, and type 'smush' 
+[2026-09-14 17:04:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1471, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:04:09 : INFO] - File: WhatsApp-Image-2025-12-01-at-09.40.37_85e201e8-1.jpg, Compression quality: 92 
+[2026-09-14 17:04:14 : INFO] - Backing up the original image - 2025/12/WhatsApp-Image-2025-12-01-at-09.40.37_85e201e8-1-updraft-pre-smush-original.jpg 
+[2026-09-14 17:04:47 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-01-at-09.40.37_85e201e8.jpg.The file was compressed from 167.87 KB to 167.62 KB, saving 0.15 percent, using WP-Optimize 
+[2026-09-14 17:04:47 : INFO] - Completed processing task with ID : 246, and type 'smush' 
+[2026-09-14 17:04:50 : INFO] - Task with ID 247 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:04:50 : INFO] - Processing task with ID : 248, and type 'smush' 
+[2026-09-14 17:04:50 : INFO] - Re_Smush_It_Task - Attachment ID : 1476, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:04:50 : INFO] - File: WhatsApp-Image-2026-01-25-at-16.32.23-scaled.jpeg, Compression quality: 92 
+[2026-09-14 17:04:52 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-01-at-09.40.37_85e201e8-1.jpg.The file was compressed from 167.87 KB to 167.62 KB, saving 0.15 percent, using WP-Optimize 
+[2026-09-14 17:04:52 : INFO] - Completed processing task with ID : 247, and type 'smush' 
+[2026-09-14 17:04:55 : INFO] - Task with ID 248 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:04:55 : INFO] - Processing task with ID : 249, and type 'smush' 
+[2026-09-14 17:04:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1477, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:04:55 : INFO] - File: WhatsApp-Image-2026-01-25-at-16.32.23-1-scaled.jpeg, Compression quality: 92 
+[2026-09-14 17:05:03 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2026-09-14 17:05:03 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2026-09-14 17:05:03 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2026-09-14 17:05:03 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2026-09-14 17:05:03 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2026-09-14 17:05:10 : INFO] - Backing up the original image - 2026/01/WhatsApp-Image-2026-01-25-at-16.32.23-scaled-updraft-pre-smush-original.jpeg 
+[2026-09-14 17:05:12 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-25-at-16.32.23-scaled.jpeg.The file was compressed from 777.27 KB to 752.79 KB, saving 3.15 percent, using WP-Optimize 
+[2026-09-14 17:05:12 : INFO] - Completed processing task with ID : 248, and type 'smush' 
+[2026-09-14 17:05:15 : INFO] - Backing up the original image - 2026/01/WhatsApp-Image-2026-01-25-at-16.32.23-1-scaled-updraft-pre-smush-original.jpeg 
+[2026-09-14 17:05:15 : INFO] - Task with ID 249 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:05:15 : INFO] - Processing task with ID : 250, and type 'smush' 
+[2026-09-14 17:05:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1478, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:05:15 : INFO] - File: WhatsApp-Image-2026-01-25-at-16.32.23-2-scaled.jpeg, Compression quality: 92 
+[2026-09-14 17:05:17 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-25-at-16.32.23-1-scaled.jpeg.The file was compressed from 777.27 KB to 752.79 KB, saving 3.15 percent, using WP-Optimize 
+[2026-09-14 17:05:17 : INFO] - Completed processing task with ID : 249, and type 'smush' 
+[2026-09-14 17:05:20 : INFO] - Task with ID 250 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:05:20 : INFO] - Processing task with ID : 251, and type 'smush' 
+[2026-09-14 17:05:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1479, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:05:20 : INFO] - File: WhatsApp-Image-2026-01-25-at-16.32.23-scaled.jpg, Compression quality: 92 
+[2026-09-14 17:05:33 : INFO] - Backing up the original image - 2026/01/WhatsApp-Image-2026-01-25-at-16.32.23-2-scaled-updraft-pre-smush-original.jpeg 
+[2026-09-14 17:05:35 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-25-at-16.32.23-2-scaled.jpeg.The file was compressed from 777.27 KB to 752.79 KB, saving 3.15 percent, using WP-Optimize 
+[2026-09-14 17:05:35 : INFO] - Completed processing task with ID : 250, and type 'smush' 
+[2026-09-14 17:05:38 : INFO] - Backing up the original image - 2026/01/WhatsApp-Image-2026-01-25-at-16.32.23-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 17:05:38 : INFO] - Task with ID 251 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:05:38 : INFO] - Processing task with ID : 252, and type 'smush' 
+[2026-09-14 17:05:38 : INFO] - Re_Smush_It_Task - Attachment ID : 1516, Started on : September 14, 2026 04:24:42 
+[2026-09-14 17:05:38 : INFO] - File: Gemini_Generated_Image_epjl66epjl66epjl-scaled.jpg, Compression quality: 92 
+[2026-09-14 17:05:40 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-25-at-16.32.23-scaled.jpg.The file was compressed from 777.27 KB to 752.79 KB, saving 3.15 percent, using WP-Optimize 
+[2026-09-14 17:05:40 : INFO] - Completed processing task with ID : 251, and type 'smush' 
+[2026-09-14 17:05:43 : INFO] - Task with ID 252 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2026-09-14 17:05:43 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2026-09-14 17:05:43 : INFO] - Successfully processed the queue (smush). 18 tasks were processed out of 18. 
+[2026-09-14 17:05:43 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2026-09-14 17:05:43 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2026-09-14 17:05:47 : INFO] - Backing up the original image - 2026/09/Gemini_Generated_Image_epjl66epjl66epjl-scaled-updraft-pre-smush-original.jpg 
+[2026-09-14 18:43:36 : INFO] - Pruning the smush log file 

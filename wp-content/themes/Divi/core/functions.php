@@ -286,7 +286,7 @@ if ( ! function_exists( 'et_core_get_theme_info' ) ) :
 			}
 		}
 
-		return $theme_info->display( $key );
+		return $theme_info->get( $key );
 	}
 endif;
 
@@ -765,7 +765,10 @@ function et_core_setup( $deprecated = '' ) {
 	define( 'ET_CORE_TEXTDOMAIN', 'et-core' );
 	define( 'ET_CORE_TYPE', $type );
 
-	load_theme_textdomain( 'et-core', ET_CORE_PATH . 'languages/' );
+	add_action( 'init', function() {
+		load_theme_textdomain( 'et-core', ET_CORE_PATH . 'languages/' );
+	});
+
 	et_core_maybe_set_updated();
 	et_new_core_setup();
 
@@ -2122,6 +2125,10 @@ endif;
  * @return void
  */
 function et_code_snippets_admin_enqueue_scripts( $hook_suffix ) {
+	if ( ! function_exists( 'et_builder_bfb_enabled' ) ) {
+		return;
+	}
+
 	global $shortname;
 
 	// phpcs:disable WordPress.Security.NonceVerification -- This function does not change any state and is therefore not susceptible to CSRF.
@@ -2176,6 +2183,10 @@ add_action( 'wp_enqueue_scripts', 'et_code_snippets_vb_enqueue_scripts' );
  * @return void
  */
 function et_ai_admin_enqueue_scripts() {
+	if ( ! function_exists( 'et_builder_bfb_enabled' ) ) {
+		return;
+	}
+
 	if ( ! et_builder_bfb_enabled() ) {
 		return;
 	}
@@ -2212,3 +2223,83 @@ function et_save_to_cloud_modal() {
 }
 
 add_action( 'admin_footer', 'et_save_to_cloud_modal' );
+
+/**
+ * Get roles with specific capabilities.
+ *
+ * This function iterates through WordPress roles, identifying those with the specific
+ * capabilities. The resulting array of applicable roles is then filtered using the
+ * 'et_core_get_roles_by_capabilities' hook.
+ *
+ * Notes: The relation between the capabilities is "AND". So, all the capabilites should
+ * be available and enabled to mark current role.
+ *
+ * @since 4.25.2
+ *
+ * @param array $capabilities Specific capabilities that we want to check.
+ *
+ * @return array List of roles based on the specific capabilities.
+ */
+function et_core_get_roles_by_capabilities( $capabilities ) {
+	global $wp_roles;
+
+	$roles = [];
+
+	foreach ( $wp_roles->roles as $role => $details ) {
+		// By default, we assume that current role has all the capabilities.
+		$has_capabilities = true;
+
+		// Iterate through the capabilities to check the availability and activation.
+		foreach ( $capabilities as $capability ) {
+			// But once we find out one of the capabilities doesn't exist for current role,
+			// break the loop and mark it as `false` to fasten the checking process.
+			$has_capability = isset( $details['capabilities'][ $capability ] ) ? $details['capabilities'][ $capability ] : false;
+
+			if ( ! $has_capability ) {
+				$has_capabilities = false;
+				break;
+			}
+		}
+
+		// If capability check done and current role has all the capabilities, assign it.
+		if ( $has_capabilities ) {
+			$roles[] = $role;
+		}
+	}
+
+	/**
+	 * Filters the list of roles based on the specific capabilities.
+	 *
+	 * @since 4.25.2
+	 *
+	 * @param array  $roles        List of roles based on the specific capabilities.
+	 * @param string $capabilities Specific capabilities that we want to check.
+	 */
+	return apply_filters( 'et_core_get_roles_by_capabilities', $roles, $capabilities );
+}
+
+
+if ( ! function_exists( 'et_core_maybe_add_divi5_api_parameter' ) ) :
+/**
+ * Adds the divi_5 parameter to API request data if Divi 5 updates are enabled or user is on Divi 5.
+ *
+ * @since 4.27.8
+ *
+ * @param array $api_data The API request data array to modify.
+ * @return array Modified API data with divi_5 parameter added if applicable.
+ */
+function et_core_maybe_add_divi5_api_parameter( $api_data ) {
+	// Check if user is on Divi 5
+	$is_divi5 = defined( 'ET_BUILDER_PRODUCT_VERSION' ) && version_compare( ET_BUILDER_PRODUCT_VERSION, '5.0', '>=' );
+	$enable_divi5_updates = et_get_option( 'et_enable_divi5_updates', 'off' );
+
+	// Add divi_5 parameter if Divi 5 updates are enabled or user is already on Divi 5
+    // Not on Divi 5: The setting controls opt-in to Divi 5 updates.
+    // Already on Divi 5: No opt-out allowed (you can't "downgrade" by toggling a setting).
+	if ( $is_divi5 || 'on' === $enable_divi5_updates ) {
+		$api_data['divi_5'] = 'on';
+	}
+
+	return $api_data;
+}
+endif;
